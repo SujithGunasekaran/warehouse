@@ -1,0 +1,160 @@
+.blog-page-main
+{
+    margin-top: 0px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 20px;
+    background-color: #f3f5f6;
+}
+.blog-page-btn-display
+{
+    margin-top: 30px;
+    margin-right: 11px;
+}
+@media(max-width:440px)
+{
+    .blog-page-btn-display{margin-right: 0px;}
+    .blog-page-main{padding-left: 0px;padding-right: 0px;}
+}
+.blog-page-btn-next
+{
+    float : right;
+    word-spacing: 3px;
+    border: none;
+    background-color: #f3f5f6;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    color : #1e2d7d;
+}
+.blog-page-btn-next a
+{
+    color : #1e2d7d;
+}
+.blog-page-btn-next a:hover
+{
+    text-decoration: none;
+    color : #00badb;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+}
+.blog-page-btn-next a:focus
+{
+    outline: none;
+    text-decoration: none;
+}
+.blog-page-arrow-icon
+{
+    margin-top: -3px !important;
+}
+.blog-page-btn-previous
+{
+    float : left;
+    border: none;
+    background-color: #f3f5f6;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    color : #1e2d7d;
+}
+.blog-page-btn-previous a
+{
+    color : #1e2d7d;
+}
+.blog-page-btn-previous a:hover
+{
+    text-decoration: none;
+    color : #00badb;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+}
+.blog-page-btn-previous a:focus
+{
+    outline: none;
+    text-decoration: none;
+}
+
+/* right side subscribe css */
+
+.blog-discount-container
+{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-top : 141px;
+    width: 100%;
+    background-color: #1e2d7d;
+    border-radius: 4px;
+
+    /* position : -webkit-sticky;
+    position: sticky;
+    top : 10px;
+    bottom : 0; */
+}
+.blog-discount-heading
+{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    color  :white;
+}
+.blog-discount-para
+{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    word-spacing: 2px;
+    line-height: 200%;
+    color  :white;
+}
+.blog-discount-text-field
+{
+    border: none;
+    background-color: white;
+    margin-top: 25px;
+    border-radius: 2px;
+    margin-left: 5px;
+    width : 97.5%;
+    height : 45px;
+    font-size: 15px;
+    font-family: 'Nunito', sans-serif;
+    color : rgb(99, 96, 96);
+    padding-left: 10px;
+}
+.blog-discount-text-field::placeholder
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color : rgb(99, 96, 96);
+}
+.blog-discount-text-field:focus
+{
+    outline: none;
+}
+.blog-discount-btn
+{
+    margin-top: 25px;
+    border-radius: 3px;
+    margin-left: 5px;
+    width : 97.5%;
+    border: none;
+    height: 45px;
+    font-family: 'Nunito', sans-serif;
+    color : white;
+    font-size: 15px;
+    background-color: #00badb;
+}
+.blog-discount-btn:hover
+{
+    background-color: #0392ac;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+}
+.blog-discount-btn:focus
+{
+    outline : none;
+}

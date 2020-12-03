@@ -1,0 +1,68 @@
+.profile-page-main
+{
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top : 30px;
+    padding-bottom: 30px;
+    background-color: #f3f5f6;
+    animation: fadeInAnimation ease 1s; 
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
+@media(max-width:440px)
+{
+    .profile-page-main{padding-left: 0px;padding-right: 0px;}
+}
+
+
+.profile-page-container
+{
+    width : 100%;
+    border-radius: 5px;
+    border : 1px solid #e1e3e4;
+}
+.profile-page-user-container
+{
+    background-color: #1e2d7d;
+    height: 160px;
+}
+.profile-page-user-letter
+{
+    padding-top : 80px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.3px;
+    font-size: 16px;
+    font-weight: bold;
+    color : white;
+    text-align: center;
+}
+.profile-page-info-tag
+{
+    padding : 20px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.6px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.profile-page-info-name
+{
+    margin : 10px;
+    background-color: rgb(208, 230, 236);
+    padding-top: 6px;
+    padding-left : 20px;
+    padding-bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.6px;
+    font-size: 16px;
+    border-radius: 5px;
+    color : rgb(99, 96, 96);
+}

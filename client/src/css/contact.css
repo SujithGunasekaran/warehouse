@@ -1,0 +1,120 @@
+.contact-page-main
+{
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top : 30px;
+    padding-bottom: 70px;
+    margin-top: 0px;
+    background-color: #f3f5f6;
+}
+@media(max-width: 440px)
+{
+    .contact-page-main{padding-left: 0px;padding-right: 0px;}
+}
+
+/* Contact head informatio */
+
+.contact-page-heading
+{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 27px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-align: center;
+    color: #1e2d7d;
+}
+.contact-page-para
+{
+    padding-top: 7px;
+    word-spacing: 2px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color : rgb(99, 96, 96);
+}
+
+/* contact form css */
+
+.contact-page-form-heading
+{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.contact-page-form-input-field
+{
+    margin-top: 20px;
+    border-radius: 4px;
+    height : 46px;
+    width : 100%;
+    border : 1px solid #e1e3e4;
+    background-color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    padding-left: 8px;
+    color : rgb(99, 96, 96);
+}
+.contact-page-form-input-field::placeholder
+{
+    color : rgb(99, 96, 96);
+    font-size: 13px;
+}
+.contact-page-form-input-field:focus
+{
+    outline: none;
+    border : 2px solid #00badb;
+}
+.contact-page-form-submit
+{
+    margin-top: 20px;
+    width : 120px;
+    height : 45px;
+    border : none;
+    border-radius: 4px;
+    background-color: #00badb;
+    color : white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    transition: all 0.5s ease-in-out;
+}
+.contact-page-form-submit:hover
+{
+    background-color: #0397b1;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    box-shadow: 0 3px 6px rgba(66, 4, 117, 0.16), 0 3px 6px rgba(23, 6, 117, 0.23);
+}
+.contact-page-form-submit:focus
+{
+    outline : none;
+}
+
+/* contact store css */
+
+.contact-page-store-heading
+{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.contact-page-store-para
+{
+    padding-top: 12px;
+    word-spacing: 2px;
+    line-height: 190%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color : rgb(99, 96, 96);
+}
+

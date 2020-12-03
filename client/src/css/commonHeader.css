@@ -1,0 +1,15 @@
+.main-main-div
+{
+    color : transparent;
+}
+.header-sticky-display
+{
+    position : -webkit-sticky;
+    position: sticky;
+    top : 0px;
+    bottom : 0;
+    z-index: 20;
+}
+@media(max-width:780px){
+    .header-sticky-display{position: relative;}
+}

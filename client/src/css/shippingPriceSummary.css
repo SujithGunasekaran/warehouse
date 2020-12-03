@@ -1,0 +1,84 @@
+.summary-price-component-main
+{
+    margin-top: 129px;
+    padding: 20px 15px;
+    background-color: white;
+    /* border-radius: 5px; */
+    border : 1px solid #e1e3e4;
+    animation: fadeInAnimation ease 1s; 
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
+.summary-price-component-hr
+{
+    border : 0.5px solid rgba(163, 175, 239, 0.3);
+}
+.summary-price-component-hr-dashed
+{
+    border : 0.5px solid rgba(134, 134, 136, 0.3);
+    border-style: dashed;
+}
+.summary-price-component-heading
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #616364;
+}
+
+/* price details css */
+
+.summary-price-component-comman-tag-display
+{
+    display: flex;
+    padding : 15px 0px;
+}
+
+.summary-price-component-comman-tag-name
+{
+    /* font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    /* color : #92dfec; */
+    color: #1e2d7d; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    line-height: 170%;
+    word-spacing: 1.3px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.summary-price-component-comman-value
+{
+    margin-left : auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    /* color : #92dfec; */
+    color: #1e2d7d;
+}
+.summary-price-component-save-price
+{
+    padding-top : 20px;
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #088f66;
+}

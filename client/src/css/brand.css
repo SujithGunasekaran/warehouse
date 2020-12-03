@@ -1,0 +1,70 @@
+.brand-main
+{
+    margin-top: 60px;
+}
+.brand-heading-display
+{
+    display : flex;
+    padding-top: 20px;
+}
+
+.brand-heading-one
+{
+    /* font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 21px;
+    font-weight: bold; */
+    padding-top: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #1e2d7d;
+    text-align: center;
+}
+.brand-heading-display a
+{
+    margin-left: auto;
+}
+.brand-heading-two
+{
+    margin-left: auto;
+    font-family: 'Nunito', sans-serif;
+    color : #00badb;
+    font-size: 15px;
+    transition: 0.7s all ease-in-out;
+}
+.brand-heading-two::after
+{
+    content : ' »';
+    transition: 0.5s;
+    opacity: 0;
+}
+.brand-heading-two:hover::after
+{
+    margin-right: 10px;
+    opacity: 1;
+}
+.brand-heading-two:hover
+{
+    cursor: pointer;
+}
+.brand-heading-display a:hover
+{
+    text-decoration: none;
+}
+.brand-image-background
+{
+    background-color: white;
+    margin-top: 30px;
+    height : 90px;
+    border: 1px solid #e1e3e4;
+}
+.brand-image
+{
+    margin-left: 10px;
+    width: 80%;
+    margin-top : 20px;
+    height : 45px;
+}

@@ -1,0 +1,228 @@
+.signup-main
+{
+    animation: fadeInAnimation ease 1s; 
+    animation-fill-mode: forwards;
+    background-color: #f3f5f6;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
+
+.signup-company-name
+{
+    padding-top : 24px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 45px;
+    word-spacing: 2px;
+}
+.signup-company-welcome
+{
+    padding-top : 15px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color : #252424;
+    font-size: 18px;
+    word-spacing: 2px;
+}
+
+.signup-form-container
+{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px 25px;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 3px 6px rgba(66, 4, 117, 0.16), 0 3px 6px rgba(23, 6, 117, 0.23);
+}
+@media(max-width:1080px)
+{
+    .signup-form-container{padding:20px 0px}
+}
+.signup-form-heading
+{
+    padding-top : 24px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color : #252424;
+    font-size: 28px;
+    word-spacing: 2px;
+}
+.signup-form-heading-hr
+{
+    border-bottom : 3px solid  #1e2d7d;
+    width : 95px;
+}
+.signup-form-label
+{
+    padding-top : 15px;
+    font-family: 'Nunito', sans-serif;
+    color : #252424;
+    font-size: 16px;
+    word-spacing: 2px;
+}
+.signup-form-input-field
+{
+    width : 100%;
+    height : 45px;
+    margin-top: 13px;
+    margin-bottom: 8px;
+    padding-left: 8px;
+    border-radius: 5px;
+    font-family: 'Nunito', sans-serif;
+    color : #252424;
+    font-size: 15px;
+    border : 1px solid #cecece;
+}
+.signup-form-input-field-error
+{
+    border: 2px solid rgb(243, 36, 36) !important;
+}
+.signup-form-input-field::placeholder
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color : rgb(146, 145, 145);
+}
+.signup-form-input-field:focus
+{
+    outline: none;
+    border: 2px solid #00badb;
+}
+.signup-input-error
+{
+	margin-top: 0px;
+	height : 4px;
+	width : 355px;
+	margin-left: 5px;
+	color : rgb(243, 36, 36);
+	font-size: 11px;
+}
+.signup-forgot-password
+{
+    float: right;
+    padding-top : 15px;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 14px;
+    word-spacing: 2px;
+    transition: 0.5s all ease-in-out;
+}
+.signup-forgot-password:hover
+{
+    cursor: pointer;
+    text-decoration: none;
+    color : #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.signup-forgot-password:focus
+{
+    outline : none;
+}
+.signup-btn
+{
+    margin-top: 35px;
+    margin-bottom: 10px;
+    width : 100%;
+    height : 45px;
+    border : none;
+    border-radius: 40px;
+    background-color: #1e2d7d;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    color : white;
+    transition: 0.5s all ease-in-out;
+}
+.signup-btn:focus
+{
+    outline : none;
+}
+.signup-btn:hover
+{
+    background-color: #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.signup-new-account
+{
+    padding-top : 35px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color : #4a4a4b;
+    font-size: 14px;
+    word-spacing: 2px;
+}
+.signup-new-account a
+{
+    padding-left: 2px;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 14px;
+    transition: 0.5s all ease-in-out;
+}
+.signup-new-account a:hover
+{
+    text-decoration: none;
+    outline: none;
+    color : #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.signup-success-message
+{
+    margin-top: 15px;
+    padding : 15px 15px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(174, 236, 177);
+    color : rgb(3, 68, 3);
+    font-size: 14px;
+    word-spacing: 2px;
+    border-radius: 4px;
+}
+.signup-success-message a
+{
+    color : darkslateblue;
+    text-decoration: none;
+}
+
+.signup-footer
+{
+    padding-top : 15px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 14px;
+    word-spacing: 2px;
+}
+.signup-footer a
+{
+    padding-right: 25px;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 14px;
+    transition: 0.5s all ease-in-out;
+}
+.signup-footer a:hover
+{
+    text-decoration: none;
+    outline: none;
+    color : #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}

@@ -1,0 +1,72 @@
+{
+   "BrandImages":[
+        {
+            "ImageSrc" : "/image/brand/brand_jbl.jpg",
+            "BrandName":"jbl"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_lg.jpg",
+            "BrandName":"lg"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_pioneer.jpg",
+            "BrandName":"pionner"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_samsung.jpg",
+            "BrandName":"samsung"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_sony.jpg",
+            "BrandName":"sony"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_yamaha.jpg",
+            "BrandName":"yamaha"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_denon.jpg",
+            "BrandName":"denon"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_cambridge.jpg",
+            "BrandName":"cambridge"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_devialet.jpg",
+            "BrandName":"devialet"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_audio.jpg",
+            "BrandName":"audio"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_akg.jpg",
+            "BrandName":"akg"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand-sen.jpg",
+            "BrandName":"sennheiser"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_shure.jpg",
+            "BrandName":"shure"
+        },
+        {
+            "ImageSrc" : "/image/brand/brand_marantz.jpg",
+            "BrandName":"marantz"
+        },
+        {
+            "ImageSrc":"/image/brand/brand_harmanAndKardon.jpg",
+            "BrandName":"harmanKardon"
+        },
+        {
+            "ImageSrc":"/image/brand/brand_masterAndDynamic.jpg",
+            "BrandName":"masterdynamic"
+        },
+        {
+            "ImageSrc":"/image/brand/brand_focal.jpg",
+            "BrandName":"focal"
+        }
+   ] 
+}

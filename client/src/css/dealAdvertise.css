@@ -1,0 +1,303 @@
+.home-deal-container-one
+{
+    margin-top: 25px;
+    width : 100%;
+    background-color: #c51205;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.home-deal-container-one-heading
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 34px;
+    color : white;
+    padding-top : 30px;
+    padding-left: 17px;
+    overflow: auto;
+}
+.home-deal-container-one-para
+{
+    position: absolute;
+    width : 94%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : white;
+    padding-top : 10px;
+    padding-left: 17px;
+    overflow: auto;
+    word-spacing: 1px;
+    line-height: 220%;
+    z-index: 10;
+}
+.home-deal-container-one-image
+{
+    position: relative;
+    width : 370px;
+    height: 280px;
+    margin-top : -70px;
+    float: right;
+    overflow: visible;
+    z-index: 3;
+    transition: 1s all ease-in-out;
+}
+.home-deal-container-one-btn
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    margin-top : 85px;
+    margin-left: 17px;
+    width : 120px;
+    height: 47px;
+    border-radius: 6px;
+    background-color: white;
+    border : none;
+    color : #db1608;
+    z-index: 10;
+}
+.home-deal-container-one-btn:focus
+{
+    outline: none;
+}
+.home-deal-container-one:hover .home-deal-container-one-image
+{
+    transform: scale(1.04); 
+}
+.home-deal-container-one:hover
+{
+    cursor: pointer; 
+}
+@media(max-width : 780px)
+{
+    .home-deal-container-one-btn{margin-top: 100px;}
+}
+
+/* first Sub container */
+
+.home-deal-container-two
+{
+    margin-top: 25px;
+    width : 100%;
+    background-color: #ffffff;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.home-deal-container-two-heading
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-size: 38px;
+    color : white;
+    padding-top: 30px;
+    padding-left: 17px;
+    overflow: auto;
+    z-index: 10;
+}
+.home-deal-container-two-para
+{
+    position: absolute;
+    width : 94%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : white;
+    padding-top : 100px;
+    padding-left: 17px;
+    overflow: auto;
+    word-spacing: 1px;
+    line-height: 220%;
+    z-index: 10;
+}
+.home-deal-container-two-image
+{
+    position: relative;
+    width : 100%;
+    height: 369px;
+    margin-top : -80px;
+    overflow: visible;
+    z-index: 3;
+    transition: 1s all ease-in-out;
+}
+.home-deal-container-two-btn
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    margin-top : 165px;
+    margin-left: 17px;
+    width : 120px;
+    height: 47px;
+    border-radius: 6px;
+    background-color: white;
+    border : none;
+    color : black;
+    z-index: 10;
+}
+.home-deal-container-two-btn:focus
+{
+    outline: none;
+}
+.home-deal-container-two:hover .home-deal-container-two-image
+{
+    transform: scale(1.04); 
+}
+.home-deal-container-two:hover
+{
+    cursor: pointer; 
+}
+@media(max-width : 780px)
+{
+    .home-deal-container-two-btn{margin-top: 195px;}
+}
+
+/* third container */
+
+.home-deal-container-three
+{
+    margin-top: 25px;
+    width : 100%;
+    background-color: #ffffff;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.home-deal-container-three-heading
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-size: 38px;
+    color : white;
+    padding-top: 28px;
+    padding-left: 17px;
+    overflow: auto;
+    z-index: 10;
+}
+.home-deal-container-three-para
+{
+    position: absolute;
+    width : 94%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : white;
+    padding-top : 90px;
+    padding-left: 17px;
+    overflow: auto;
+    word-spacing: 1px;
+    line-height: 220%;
+    z-index: 10;
+}
+.home-deal-container-three-image
+{
+    position: relative;
+    width : 100%;
+    height: 369px;
+    margin-top : -80px;
+    overflow: visible;
+    z-index: 3;
+    transition: 1s all ease-in-out;
+}
+.home-deal-container-three-btn
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    margin-top : 165px;
+    margin-left: 17px;
+    width : 120px;
+    height: 47px;
+    border-radius: 6px;
+    background-color: white;
+    border : none;
+    color : black;
+    z-index: 10;
+}
+.home-deal-container-three-btn:focus
+{
+    outline: none;
+}
+.home-deal-container-three:hover .home-deal-container-three-image
+{
+    transform: scale(1.04); 
+}
+.home-deal-container-three:hover
+{
+    cursor: pointer; 
+}
+@media(max-width : 780px)
+{
+    .home-deal-container-three-btn{margin-top: 175px;}
+}
+
+/* Fourth Container */
+
+.home-deal-container-four
+{
+    margin-top: 25px;
+    width : 100%;
+    background-color: rgb(63, 62, 62);
+    overflow: hidden;
+    border-radius: 5px;
+}
+.home-deal-container-four-heading
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 34px;
+    color : white;
+    padding-top : 30px;
+    padding-left: 17px;
+    overflow: auto;
+}
+.home-deal-container-four-para
+{
+    position: absolute;
+    width : 94%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : white;
+    padding-top : 10px;
+    padding-left: 17px;
+    overflow: auto;
+    word-spacing: 1px;
+    line-height: 220%;
+    z-index: 10;
+}
+.home-deal-container-four-image
+{
+    position: relative;
+    width : 350px;
+    height: 250px;
+    margin-top : -40px;
+    float: right;
+    overflow: visible;
+    z-index: 3;
+    transition: 1s all ease-in-out;
+}
+.home-deal-container-four-btn
+{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    margin-top : 85px;
+    margin-left: 17px;
+    width : 120px;
+    height: 47px;
+    border-radius: 6px;
+    background-color: white;
+    border : none;
+    color : black;
+    z-index: 10;
+}
+.home-deal-container-four-btn:focus
+{
+    outline: none;
+}
+.home-deal-container-four:hover .home-deal-container-four-image
+{
+    transform: scale(1.04); 
+}
+.home-deal-container-four:hover
+{
+    cursor: pointer; 
+}
+@media(max-width : 780px)
+{
+    .home-deal-container-four-btn{margin-top: 100px;}
+}

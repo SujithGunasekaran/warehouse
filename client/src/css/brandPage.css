@@ -1,0 +1,87 @@
+.brand-page-main
+{
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top : 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    background-color: #f3f5f6;
+}
+.brand-page-heading
+{
+    padding-top: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #1e2d7d;
+    text-align: center;
+}
+
+@media(max-width: 440px)
+{
+    .brand-page-main{padding-left: 0px;padding-right: 0px;}
+}
+
+/* brand page breadcrumb */
+
+.brand-page-bread-para-display
+{
+    display : flex;
+    align-items: left;
+    justify-content: left;
+}
+.brand-page-bread-icon
+{
+    color : rgb(73, 71, 71);
+}
+.brand-page-bread-icon2
+{
+    padding-left: 10px;
+    color : rgb(73, 71, 71);
+}
+.brand-page-bread-para
+{
+    text-align: center;
+    padding-top: 1px;
+    padding-left: 5px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.brand-page-bread-para a
+{
+    display : inline-block;
+    color : rgb(121, 117, 117);
+    transition: 0.5s all ease-in-out;
+}
+.brand-page-bread-para a:hover
+{
+    text-decoration: none;
+    color: #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.brand-page-bread-para a:focus
+{
+    text-decoration: none;
+}
+.brand-page-bread-split
+{
+    padding-top: 2px;
+    padding-left: 15px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color : rgb(121, 117, 117);
+}
+.brand-page-bread-para2
+{
+    padding-top: 1.5px;
+    padding-left: 15px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #00badb;
+}

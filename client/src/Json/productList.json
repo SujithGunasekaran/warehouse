@@ -1,0 +1,3410 @@
+{
+    "Headphones":[
+        {
+            "imageURL":"/image/product/headphone/head_one.jpg",
+            "ProductImageURL":"/image/product/headphone/head_product_one.webp",
+            "BrandName":"SHURE",
+            "BrandCode":"SKU: SHU-704007-SRH-DE",
+            "ProductName":"Shure SRH440 Professional Studio Headphones",
+            "ActualPrice":"7128",
+            "Price":"7128",
+            "Rating":"3",
+            "Stock":"65",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"SRH440 Professional Studio Headphones reproduce accurate audio across an extended range. The SRH440 Professional Studio Headphones from Shure provide exceptional sound reproduction and comfort. Optimized for home and studio recording, SRH440 headphones reproduce accurate audio across an extended range.Impedance, power handling and sensitivity are all calibrated for professional audio devices such as DJ mixers, mixing consoles, and headphone amplifier. Includes carrying bag and threaded 1/4 6.3mm gold plated adapter.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Enhanced frequency response delivers accurate audio across an extended range"
+                        },
+                        {
+                            "list":"Impedance and power handling optimized for perfomance with professional audio devices"
+                        },
+                        {
+                            "list":"Adjustable headband and collapsible construction provide comfort and portability"
+                        },
+                        {
+                            "list":"Bayonet clip securely locks detachable cable into ear cup"
+                        }
+                    ]
+                    
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/headphone/head_two.jpg",
+            "ProductImageURL":"/image/product/headphone/head_product_two.webp",
+            "BrandName":"SENNHEISER",
+            "BrandCode":"SKU: SEN-256434-PXC-DE",
+            "ProductName":"Sennheiser PXC 480 Active Noise-Canceling Headphones",
+            "ActualPrice":"21528",
+            "Price":"21528",
+            "Rating":"5",
+            "Stock":"20",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Introducing the Sennheiser PXC 480 – a premium headset for the discerning business traveller. This stylish, compact and foldable headset delivers exceptional sound quality anywhere you go. It features Sennheiser NoiseGard active noise cancellation virtually eliminating unwanted ambient sound. Ergonomically engineered for superior wearing comfort, this headset lets you escape the stresses of travel and upgrades your 'on-the-go' audio experience to first class.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"NoiseGard active noise cancellation for suppression of plane and train noises"
+                        },
+                        {
+                            "list":"Supplied connecting cable features an in-line microphone and remote for call control"
+                        },
+                        {
+                            "list":"Compact, collapsible design makes it easy to pack for 'on the go' use"
+                        },
+                        {
+                            "list":"Up to 50 hour battery life providing long listening sessions using active noise cancellation"
+                        },
+                        {
+                            "list":"2 year warranty when purchased from an authorized Sennheiser dealer"
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "imageURL":"/image/product/headphone/head_three.jpg",
+            "ProductImageURL":"/image/product/headphone/head_product_three.webp",
+            "BrandName":"SENNHEISER",
+            "BrandCode":"SKU: SEN-883240-URB-DE",
+            "ProductName":"Sennheiser Urbanite On-Ear Headphones",
+            "ActualPrice":"14129",
+            "Price":"14129",
+            "Rating":"4.5",
+            "Stock":"43",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Sennheiser URBANITE loves your ears. This headphone delivers the goods, an intense, uncompromising performance, reflecting Sennheiser’s pursuit of perfect sound. URBANITE serves up serious club sound with massive bass and excellent clarity through the entire frequency range. Your ears are transported to centerstage with URBANITE. Sennheiser URBANITE is for uncompromising ears; those that won’t settle for weak audio quality, lousy fit and lame styling. Experience the beat all over again, with bass that never sounded that good! They’re built tough with stainless steel hinges and aluminium ear cup sliders. URBANITE is made to go, just fold’em up and take them everywhere. The integrated in-line remote control and microphone let’s you take calls and control your music on smartphones and tablets, these phones keep you connected. Two versions are available, one for Apple iOS and one for Samsung Galaxy devices. Sennheiser URBANITE is the sound your ears have been waiting for.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Take the club with you - Legendary Sennheiser sound featuring massive bass, smooth midrange and extended treble"
+                        },
+                        {
+                            "list":"Tough companion - Constructed using premium extra rugged parts like stainless steel hinges and aluminum sliders for reliability and durability"
+                        },
+                        {
+                            "list":"Stay connected - control your music and calls (includes detachable cable with 3-button remote control and integrated microphone for Apple iOS devices"
+                        },
+                        {
+                            "list":"Peace of mind - 2-years international warranty when purchased from an Authorized Sennheiser dealer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/headphone/head_four.webp",
+            "ProductImageURL":"/image/product/headphone/head_product_four.webp",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-372478-R6--DE",
+            "ProductName":"Klipsch R6 On-Ear Headphones",
+            "ActualPrice":"5688",
+            "Price":"5688",
+            "Rating":"4.5",
+            "Stock":"69",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"We created the comfortable, lightweight R6 on-ear headphones to provide listeners a relaxing yet superior listening experience at an obtainable price. Klipsch feels that everyone deserve the best acoustics available - and that's why we are The Keepers of the Sound.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Ultra comfortable"
+                        },
+                        {
+                            "list":"Extremely lightweight"
+                        },
+                        {
+                            "list":"High-density memory foam ear cups"
+                        },
+                        {
+                            "list":"Adjustable leather headband"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/headphone/head_five.jpg",
+            "ProductImageURL":"/image/product/headphone/head_product_five.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-544136-XB950-BL",
+            "ProductName":"Sony XB-950B1 Extra Bass Wireless Headphones with App Control",
+            "ActualPrice":"12816",
+            "Price":"11999",
+            "Rating":"4.4",
+            "Stock":"9",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Feel the freedom and love the bass with these Bluetooth headphones with EXTRA BASS that deliver powerful, clear sound and up to 18 hours of battery life. Find the perfect sound for each song with the Sony Headphones Connect app, while you enjoy broad frequency response for the ultimate listening experience. Even take hands-free calls with the built-in mic. Freedom has never sounded better.",
+                    "SubHeading":"Specifications and features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Explore your favorite tracks in new depth with EXTRA BASS™ and listen wirelessly over Bluetooth® wireless technology for up to 18 hours"
+                        },
+                        {
+                            "list":"EXTRA BASS™ for deep, punchy sound High-quality audio with Bluetooth® wireless technology"
+                        },
+                        {
+                            "list":"Optimize your sound settings with Sony | Headphones Connect app"
+                        },
+                        {
+                            "list":"18 hours of battery life"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/headphone/head_six.webp",
+            "ProductImageURL":"/image/product/headphone/head_product_six.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-886186-WH1-BL",
+            "ProductName":"Sony STR-ZA810ES 7.2-Ch Hi-Res Wi-Fi Network AV Receiver",
+            "ActualPrice":"25056",
+            "Price":"25056",
+            "Rating":"4.6",
+            "Stock":"45",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Sony industry-leading noise cancellation evolves to further immerse you in your music. The addition of Sony proprietary HD noise canceling processor Qn1 masterfully eliminates the noise around you. Listen all day with up to 30 hours of battery life. Quick charging gives five hours of playback with just a 10-minute charge. WH-1000XM3 headphones take you even deeper into silence with further improvements to our industry-leading noise cancellation, and smart listening that adjusts to your situation.",
+                    "SubHeading":"Specifications and features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"WH-1000XM3 headphones take you even deeper into silence with further improvements to our industry-leading noise cancellation1, and smart listening that adjusts to your situation."
+                        },
+                        {
+                            "list":"HD Noise-Canceling Processor QN1 lets you listen without distractions"
+                        },
+                        {
+                            "list":"Unique automatic personal NC, and Atmospheric Pressure optimization"
+                        },
+                        {
+                            "list":"Wireless freedom with Bluetooth® technology and NFC"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "AV Receivers":[
+        {
+            "imageURL":"/image/product/av/av-one.webp",
+            "ProductImageURL":"/image/product/av/av-one-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-692802-STR-DE",
+            "ProductName":"Sony STR-ZA810ES 7.2-Ch Hi-Res Wi-Fi Network AV Receiver1",
+            "ActualPrice":"50256",
+            "Price":"50256",
+            "Rating":"0",
+            "Stock":"11",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Enjoy flexible connectivity, powerful configurability and renowned ES quality in this 7.2 channel 4K AV receiver with Dolby Atmos and DTS: x object-based surround sound. Add in full 4K HDR compatibility and easy IP integration with leading control systems and you have the total package of installation-friendly features and audio/video performance.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"High-Resolution Audio capable"
+                        },
+                        {
+                            "list":"100W per channel power output"
+                        },
+                        {
+                            "list":"4K upscaling HDMI, 6-in, 2-out"
+                        },
+                        {
+                            "list":"Dolby Atmos® and DTS:X compatible"
+                        },
+                        {
+                            "list":"4K pass-through, HDCP 2.2 compatible"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/av/av-two.jpg",
+            "ProductImageURL":"/image/product/av/av-two-product.jpg",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: SAM-864377-43--DE",
+            "ProductName":"Pioneer VSX-LX301 7.2-Ch Networked AV Receiver with Built-In Bluetooth and Wi-Fi",
+            "ActualPrice":"50400",
+            "Price":"50400",
+            "Rating":"0",
+            "Stock":"12",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The VSX-LX301 features Dolby Atmos and DTS:X audio formats for fully-immersive surround sound. Connect to all your favorite music sources with support for the latest Dual Band Wi-Fi network connections to stream Google Cast, TuneIn, Deezer, and Tidal. The new 384kHz/32 bit DAC provides superior playback of all music resolutions from MP3s to Hi-Res audio files. Support for multi-room audio allows sources connected to the AV receiver to be played back in different rooms. Google Cast, TIDAL, and Deezer require future firmware update. Deezer currently not available in US.",
+                    "SubHeading":"General Specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"170 W/ch (6 ohms, 1 kHz, THD 0.9 %, 1ch Driven FTC)"
+                        },
+                        {
+                            "list":"100 W/ch (8 ohms, 20 Hz-20 kHz, THD 0.08 %, 2ch Driven FTC)"
+                        },
+                        {
+                            "list":"Ultra HD Pass-through with HDCP 2.2"
+                        },
+                        {
+                            "list":"Built-in Wi-Fi and Bluetooth"
+                        },
+                        {
+                            "list":"Dolby Atmos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/av/av-three.jpg",
+            "ProductImageURL":"/image/product/av/av-three-product.jpg",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-450969-ELI-DE",
+            "ProductName":"Pioneer SX-S30 Elite Slim Receiver Audio & Video Component Receiver",
+            "ActualPrice":"32299",
+            "Price":"32299",
+            "Rating":"4",
+            "Stock":"12",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"With the Pioneer Elite SX-S30 you can enjoy various audio entertainment including Hi-Res audio files, music streaming services, internet radio, CDs, and vinyl records. Being equipped with Bluetooth wireless technology, airplay, and built-in Wi-Fi, you can wirelessly stream songs. With the built in Class-D amplification and thin design, this network receiver can fit in small places. If you have a streaming device, you can listen to songs by plugging them to the HDMI terminal. Just connect the speaker of your choice, and play and listen the way you like.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"5 W/Ch (4 ohms, 1 kHz, THD 1.0 %, 1Ch Driven) 2-ch network receiver with Class-D amplification"
+                        },
+                        {
+                            "list":"Built-in Bluetooth and Wi-Fi (dual band 5 GHz/2.4 GHz). Apple airplay Certified with Pandora, Spotify, Tidal, and Deezer music streaming services read"
+                        },
+                        {
+                            "list":"Hi-Res Audio file playback via USB/network and phono (mm) input for a vinyl record player"
+                        },
+                        {
+                            "list":"Chromecast built-in and DTS Play-Fi technology (via future firmware updates)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/av/av-four.webp",
+            "ProductImageURL":"/image/product/av/av-four-product.jpg",
+            "BrandName":"MARANTZ",
+            "BrandCode":"SKU: MAR-514243-SR6-DE",
+            "ProductName":"Marantz SR6013 9.2-Ch Full 4K Ultra HD Network AV Surround Receiver HEOS",
+            "ActualPrice":"107200",
+            "Price":"107200",
+            "Rating":"4.7",
+            "Stock":"11",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Immerse yourself in premium sound and multi-dimensional audio with the Marantz SR6013 9.2 channel AV receiver. It features Dolby Atmos, DTS:X and DTS Virtual:X decoding for immersive home theater, and proprietary HDAM circuit boards for more detailed, dynamic sound. Eight HDMI inputs are fully compatible with the latest specifications, including 4K Ultra High Definition video, 60Hz video, HDR, Dolby Vision and Hybrid Log-Gamma. Listen to all your favorite music from your smart devices via Bluetooth, AirPlay or the HEOS app. Control the SR6013 with your voice and Amazon Alexa — download the HEOS Home Entertainment skill and ask Alexa to play, pause or stop music, switch inputs for your different media players, turn up the volume and more.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"9.2 channel AV Receiver with 110 W per channel (8 Ohm, 20 Hz - 20 kHz, 0.08% 2ch Drive)"
+                        },
+                        {
+                            "list":"8 HDMI inputs (incl. 1 front) with full HDCP 2.2 support; 3 HDMI output"
+                        },
+                        {
+                            "list":"Three-dimensional audio formats Dolby Atmos, DTS:X (up to 7.1.4 with an external 2ch amplifier) and DTS Virtual:X for height virtualization effects"
+                        },
+                        {
+                            "list":"eARC (Enhanced Audio Return channel) supports the transmission of 3D audio from your TV apps with a single HDMI connection"
+                        },
+                        {
+                            "list":"Stream music from Internet Radio, Spotify Connect, Pandora, SiriusXM, Amazon Music, TIDAL, Deezer and more with Bluetooth, Airplay2 or HEOS built-in"
+                        },
+                        {
+                            "list":"Marantz 2016 AVR remote app for control over the latest generation of Marantz network AV Receivers. Available on iOS and Android."
+                        },
+                        {
+                            "list":"Amazon Alexa voice control via the HEOS Home Entertainment skill"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/av/av-five.jpg",
+            "ProductImageURL":"/image/product/av/av-five-product.jpg",
+            "BrandName":"DENON",
+            "BrandCode":"SKU: DEN-241191-AVR-DE",
+            "ProductName":"Denon AVR-S930H 7.2-Ch AV Receiver with Built-In HEOS Wireless Technology, Works with Alexa",
+            "ActualPrice":"21499",
+            "Price":"21499",
+            "Rating":"4.5",
+            "Stock":"18",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The AVR-S930H is the most advanced Denon S Series home entertainment solution with a complete set of next-generation audio and video features. Thanks to the built-in HEOS wireless technology, you can stream and control all your local or online music effortlessly from anywhere in your home with the comfortable HEOS App. Create a stunning home theater experience with the Dolby Atmos and DTS:X 3D surround sound decoders, and all the latest video technologies including Dolby Vision, HDR (High Dynamic Range) and 4K Scaling. With the second HDMI output, you can even enjoy AV sources in a another room",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Feel every dimension in Dolby Atmos. Dolby Atmos transports you into the story with moving audio that flows all around you with breathtaking realism"
+                        },
+                        {
+                            "list":"DTS:X™ immersive audio places sound where it would occur naturally in space, creating a lifelike, multi-dimensional audio experience in the home"
+                        },
+                        {
+                            "list":"Our HEOS technology enables the AVR-S930H to become part of the HEOS wireless multi-room system, allowing you to enjoy your favorite music anywhere – and everywhere – around your home"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/av/av-six.webp",
+            "ProductImageURL":"/image/product/av/av-six-product.webp",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-108512-SLI-DE",
+            "ProductName":"Pioneer Slim Audio & Video Component Receiver Black (VSX-S520)",
+            "ActualPrice":"28699",
+            "Price":"28699",
+            "Rating":"4",
+            "Stock":"8",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Bringing quality sound and the latest Features in a slim and stylish design, thanks to a highly-efficient class D amplifier. Enjoy spectacular images with Ultra HD (4K/60p/4:4:4) upscale/pass-through, play Hi-Res audio via USB/network, listen to internet radio and various streaming services, or cast music with chrome cast built-in. The slim, stylish design and efficient power makes the VSX-S520 an ideal addition to any home Cinema, It is 120v.",
+                    "SubHeading":"General Specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Slim, 2.76” low-profile design 5.1 Ch network A/V receiver featuring MCACC room calibration. Dolby Atoms: 3.1.2Ch"
+                        },
+                        {
+                            "list":"Ultra HD pass-through (4K UltraHD 60p/4: 4: 4/HDR.10/BT.2020) with HDCP 2.2 and 4K upscaling (1080p to 4K)"
+                        },
+                        {
+                            "list":"Highly-efficient class D amplifier driving 80 W/Ch (4 ohms, 1 kHz, THD 1.0 %, 1Ch Driven FTC); 50 W/Ch (4 ohms, 1 kHz, THD 1.0 %, 2Ch Driven FTC)"
+                        },
+                        {
+                            "list":"Music file playback: MP3, WMA, AAC, Apple lossless, WAV, FLAC, AIFF, DSD via USB and network (Up to 192kHz/24-bit). sound delay (Lip Sync): 500 ms at 48K/ 400 ms at 96K/ 200 ms at 192K"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Accessories":[
+        {
+            "imageURL":"/image/product/accessories/accessories-one.jpg",
+            "ProductImageURL":"/image/product/accessories/accessories-one-product.webp",
+            "BrandName":"SHURE",
+            "BrandCode":"SKU: SHU-454632-RMC-DE",
+            "ProductName":"Shure RMCE-LTG Remote Mic Lightning Accessory Cable SE Earphones",
+            "ActualPrice":"6999",
+            "Price":"6999",
+            "Rating":"4.1",
+            "Stock":"21",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Lightning cable enables SE Sound Isolating™ Earphones with detachable cables to connect with iOS devices with lightning connector for high-quality audio and communication control.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Microphone placement optimized for clarity of speech and intelligibility of voice commands"
+                        },
+                        {
+                            "list":"Simple, plug-and-play operation for Apple iOS devices"
+                        },
+                        {
+                            "list":"Firmware upgradable with the ShurePlus™ MOTIV App"
+                        },
+                        {
+                            "list":"High-quality digital audio playback (up to 24-bit/48 kHz) over Apple’s Lightning® connector"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/accessories/accessories-two.webp",
+            "ProductImageURL":"/image/product/accessories/accessories-two-product.webp",
+            "BrandName":"SENNHEISER",
+            "BrandCode":"SKU: SEN-574111-MKE-DE",
+            "ProductName":"Sennheiser MKE 440 Professional Stereo Shotgun Microphone (MKE 440)",
+            "ActualPrice":"24999",
+            "Price":"24999",
+            "Rating":"4.6",
+            "Stock":"5",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The MKE 440 has two aligned and matched mini shotgun mics ensuring that the MKE 440 captures the audio you want while rejecting off-axis noise. This feature sets it apart from conventional stereo microphones. With its optimized acoustic characteristics and adjustable sensitivity, the MKE 440 is ideally suited for speech, music or ambience. The stainless steel micro-mesh wind protection reduces wind noise and protects the fine high frequency details in your sound.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Dual mini shotgun mics create frontal focus"
+                        },
+                        {
+                            "list":"Suppression of ambience and background noise"
+                        },
+                        {
+                            "list":"3-level sensitivity adjustment and low-cut"
+                        },
+                        {
+                            "list":"Compact, all-metal construction that fits on Standard size camera shoe mount"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/accessories/accessories-three.webp",
+            "ProductImageURL":"/image/product/accessories/accessories-three-product.webp",
+            "BrandName":"SENNHEISER",
+            "BrandCode":"SKU: SEN-269132-CLI-DE",
+            "ProductName":"Sennheiser ClipMic Digital Mobile Recording Microphone for iOS Devices",
+            "ActualPrice":"14299",
+            "Price":"14299",
+            "Rating":"4",
+            "Stock":"35",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Whether you are a journalist looking for an easy audio solution for field interviews, a lecturer that wants to record a talk or even a parent recording their child reciting a poem – the new digital clip-on microphones from Sennheiser and Apogee help you to capture sound professionally. ClipMic digital combines Apogee’s A/D conversion expertise with Sennheiser’s microphone design knowledge to give users optimum sound quality for their recordings – especially designed for iOS-devices with Lightning connector.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Plug and play - connect ClipMic digital to the Lightning port on your iOS device and begin recording!"
+                        },
+                        {
+                            "list":"Sennheiser ME 2 microphone - omni-directional capsule delivers superb clarity and speech intelligibility"
+                        },
+                        {
+                            "list":"Digital interface - Apogee 24 bit/96 kHz digital interface designed specifically for Apple devices (iPhone, iPad or iPod touch) provides exceptional audio performance"
+                        },
+                        {
+                            "list":"Apogee MetaRecorder app – is a free download from the App Store making recording, tagging and organizing audio in the field simple and efficie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/accessories/accessories-four.jpg",
+            "ProductImageURL":"/image/product/accessories/accessories-four-product.webp",
+            "BrandName":"MARANTZ",
+            "BrandCode":"SKU: MAR-632313-TT4-DE",
+            "ProductName":"Marantz TT-15S1 Reference Belt Drive Turntable with Cartridge",
+            "ActualPrice":"107999",
+            "Price":"107999",
+            "Rating":"4.3",
+            "Stock":"12",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Analog recording is still very alive. Quality turntables are still in demand. Digital discs simply set new performance standards that turntables must meet. Many cherished records may never be issued on digital formats. Good turntables are now more important than ever. Marantz embraces an audiophile quality turntable with AC servo belt-drive and low-coloration tone arm to answer the need for a high performance source component for the analog record.",
+                    "SubHeading":"General Specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Low-Resonance High-Density Acrylic Chassis and Platter"
+                        },
+                        {
+                            "list":"Floating Motor Mount Construction"
+                        },
+                        {
+                            "list":"Floating Motor Mount Construction"
+                        },
+                        {
+                            "list":"Belt Drive System with Endless Silicon Belt"
+                        },
+                        {
+                            "list":"Anodized Aluminum Straight Type Tone Arm"
+                        },
+                        {
+                            "list":"Solid Aluminum 3 points Support Feet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/accessories/accessories-five.webp",
+            "ProductImageURL":"/image/product/accessories/accessories-five-product.webp",
+            "BrandName":"DEVIALET",
+            "BrandCode":"SKU: DEV-664241-VY5-DE",
+            "ProductName":"Devialet VY510US Accessory Dialog Wireless Smart Hub for Phantom",
+            "ActualPrice":"23599",
+            "Price":"23599",
+            "Rating":"3.9",
+            "Stock":"23",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Dialog is the hub that allows you to connect several Phantom together wirelessly, from 2 Phantom to 24 Phantom, to create Hi-Fi or Multi-Room systems. Dialog is necessary to connect more than one Phantom for a multi-room or stereo experience. Dialog is not necessary to play online streaming services through Bluetooth to one Phantom. Designed and assembled in France. Only works with Phantom Premier: Phantom Gold (4500W), Phantom Silver (3000W), Classic Phantom (1200W).",
+                    "ListAvailable":"No"
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/accessories/accessories-six.webp",
+            "ProductImageURL":"/image/product/accessories/accessories-six-product.webp",
+            "BrandName":"DEVIALET",
+            "BrandCode":"SKU: DEV-731007-GOL-DE",
+            "ProductName":"Devialet Care 3 Year Insurance for Devialet Phantom",
+            "ActualPrice":"21499",
+            "Price":"21499",
+            "Rating":"3.6",
+            "Stock":"15",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"With Devialet Care, your Phantom Premier investment is protected with an extra year of warranty and can be replaced once at a preferential price in case of accidental damage (see Devialet Care replacement prices below).",
+                    "SubHeading":"General Specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"3 years Guarantee Extension"
+                        },
+                        {
+                            "list":"Protect your Phantom up to 30 days after its purchase"
+                        },
+                        {
+                            "list":"Covers one accidental Incident"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "All TVs":[
+        {
+            "imageURL":"/image/product/tv/tv-one.webp",
+            "ProductImageURL":"/image/product/tv/tv-one-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-695219-XBR-55",
+            "ProductName":"Sony XBR-950G BRAVIA 4K HDR Ultra HD TV",
+            "ActualPrice":"111999",
+            "Price":"100599",
+            "Rating":"4.2",
+            "Stock":"21",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"Yes",
+            "ColorAvailable":"No",
+            "DefaultSize":"55",
+            "ProductListName":"TV Size",
+            "ProductList":[
+                {
+                    "Size":"55",
+                    "SizeName":"Size",
+                    "ActualPrice":"111999",
+                    "Price":"100599",
+                    "BrandCode":"SKU: SON-695219-XBR-55",
+                    "Stock":"21"
+                },
+                {
+                    "Size":"65",
+                    "SizeName":"Size",
+                    "ActualPrice":"121999",
+                    "Price":"121999",
+                    "BrandCode":"SKU: SON-985594-XBR-65",
+                    "Stock":"8"
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Unlock the world of ultimate colors and contrast with the X950G 4K HDR TV from Sony. Incredibly clear 4K HDR picture quality is powered by the Picture Processor X1 Ultimate, and content has never been brighter than with Full Array Local Dimming & Boosting. X-Motion Clarity technology makes action scenes look like real life.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"4K High Dynamic Range"
+                        },
+                        {
+                            "list":"Picture Processor X1™ Ultimate"
+                        },
+                        {
+                            "list":"Acoustic Multi-Audio™"
+                        },
+                        {
+                            "list":"Dimensions: TV with stand - 48 3/8 x 30 5/8 x 10 7/8 inch; without stand - 48 3/8 x 28 x 2 3/4 inch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-two.webp",
+            "ProductImageURL":"/image/product/tv/tv-two-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-604011-XBR77A1E-DE",
+            "ProductName":"Sony XBR-77A1E 77-Inch 4K Ultra HD Smart BRAVIA OLED TV, Works with Alexa",
+            "ActualPrice":"575999",
+            "Price":"575999",
+            "Rating":"4.7",
+            "Stock":"9",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"4K HDR Processor X1™ Extreme"
+                        },
+                        {
+                            "list":"Acoustic Surface™ technology"
+                        },
+                        {
+                            "list":"Works with Alexa for voice control (Alexa device sold separately)"
+                        },
+                        {
+                            "list":"Smart functionality gives you access to your favorite apps and content using Sony’s Android TV. Power Requirements: (voltage):AC 120V for UL cUL AC 110-240V for other"
+                        },
+                        {
+                            "list":"Pairs 4K Ultra HD picture clarity with the contrast, color, and detail of High Dynamic Range (HDR) for the most lifelike picture"
+                        },
+                        {
+                            "list":"The OLED panel’s native 120Hz refresh rate is enhanced by Motionflow XR gives you the fast moving action scenes with no motion blur"
+                        },
+                        {
+                            "list":"Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Composite"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-three.webp",
+            "ProductImageURL":"/image/product/tv/tv-three-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-969666-XBR75X850F-DE",
+            "ProductName":"Sony XBR-75X850F 75-Inch 4K Ultra HD Smart LED TV",
+            "ActualPrice":"143859",
+            "Price":"143199",
+            "Rating":"4.8",
+            "Stock":"31",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Armed with a stunning array of technologies like the X1 Extreme Processor, X-Tended Dynamic Range PRO, and X-Motion Clarity, the Sony X850F 4K HDR LED displays an awe-inspiring 4K HDR picture with stunning clarity, contrast, and color. It’s more than just a LED - It’s what 4K HDR LEDs aspire to be.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"4K High Dynamic Range"
+                        },
+                        {
+                            "list":"4K HDR Processor X1™"
+                        },
+                        {
+                            "list":"4K X-Reality™ PRO"
+                        },
+                        {
+                            "list":"Android TV™"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-four.jpg",
+            "ProductImageURL":"/image/product/tv/tv-four-product.webp",
+            "BrandName":"SAMSUNG",
+            "BrandCode":"SKU: SAM-615422-QN8-DE",
+            "ProductName":"Samsung QN85Q900 85-Inch QLED Smart 8K UHD TV",
+            "ActualPrice":"1079799",
+            "Price":"1079799",
+            "Rating":"4.6",
+            "Stock":"20",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Our best TV ever combines true-to-life 8K HDR picture quality, AI-powered intelligent upscaling², stunning design, and smart home ready features, for a revolutionary TV experience. With intelligent upscaling developed thru AI², QLED 8K converts today's content into stunning 8K for improved details and sharpened definition. Enjoy clear and precise images with 8K-level picture quality, reduced noise and sharpened definition",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Real 8K resolution"
+                        },
+                        {
+                            "list":"8K AI Upscaling"
+                        },
+                        {
+                            "list":"Quantum processor 8K"
+                        },
+                        {
+                            "list":"Quantum HDR 24x"
+                        },
+                        {
+                            "list":"100% color volume"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-five.webp",
+            "ProductImageURL":"/image/product/tv/tv-five-product.jpg",
+            "BrandName":"SAMSUNG",
+            "BrandCode":"SKU: SON-669527-XBR-DE",
+            "ProductName":"Sony XBR-75Z9D 75-Inch 4K HDR Ultra HD LED TV",
+            "ActualPrice":"647584",
+            "Price":"647584",
+            "Rating":"4.4",
+            "Stock":"16",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"If TVs are measured on picture quality, then the Sony Z-series stands alone. Near perfect black levels combine with the ability to reproduce the brightness and color of the real world, while your favorites get up scaled to near-4K HDR brilliance. It’s a viewing experience that can’t be replicated. Our newly developed 4K HDR Processor X1 Extreme outperforms our conventional 4K Processor X1 with 40% more real-time image processing power. It takes everything you watch and improves it to near 4K HDR quality",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"This 4K HDR TV will take your breath away with contrast, colors, textures, and detail never before possible on screen"
+                        },
+                        {
+                            "list":"4K High Dynamic Range Learn More 4K HDR Processor X1™ Extreme Learn More Backlight Master Drive™"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-six.webp",
+            "ProductImageURL":"/image/product/tv/tv-six-product.jpg",
+            "BrandName":"LG",
+            "BrandCode":"SKU: LG--434171-OLE-DE",
+            "ProductName":"LG OLED77C8PUA 77-Inch 4K Ultra HD Smart OLED TV",
+            "ActualPrice":"677584",
+            "Price":"665499",
+            "Rating":"4.4",
+            "Stock":"31",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The sleek C8 is designed to elevate a room’s aesthetics while complementing any decor. This new LG OLED TV with AI (Artificial Intelligence) ThinQ becomes the hub for the smart home: Using Intelligent Voice control, speak into the LG Magic Remote to pull up family photos, control light settings, check the weather and more. Movies, sports and games come to thrilling new life, more immersive with the perfect black and intense color made possible by LG OLED display technology.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"LG OLED TV with AI (Artificial Intelligence) ThinQ has the Google Assistant built in, so you can control compatible smart home devices using just your voice through the LG Magic Remote. Create a center for your smart home and beyond. Plus it works with Amazon Alexa devices (sold separately)"
+                        },
+                        {
+                            "list":"The α9 Intelligent Processor inside the LG OLED TV with AI ThinQ is the most powerful ever from LG. Developed exclusively for LG OLED TV, the new α9 processor noticeably enhances sharpness and depth while delivering vastly more accurate colors, for the ultimate in picture quality"
+                        },
+                        {
+                            "list":"Pixel Level Dimming enables each of the 8.3 million individually lit pixels of the LG OLED TV with AI ThinQ to brighten, dim or power off completely, achieving perfect black and displaying a level of picture detail impossible with any other television technology"
+                        },
+                        {
+                            "list":"4K Cinema HDR on LG OLED TV with AI ThinQ features comprehensive support of major high dynamic range formats including Dolby Vision, as well as HDR10 and HLG, both with LG’s advanced tone-mapping technology that provides scene-by-scene optimization"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Amplifier":[
+        {
+            "imageURL":"/image/product/amplifier/amp-one.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-one-product.jpg",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-162166-HER-DE",
+            "ProductName":"Klipsch Heritage Headphones Amplifier - Unit",
+            "ActualPrice":"35999",
+            "Price":"35999",
+            "Rating":"4.2",
+            "Stock":"15",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Encased in formed aluminum with genuine walnut veneer, the Heritage Headphone Amplifier exudes quality before plugging in your headphones. All switches, knobs, and controls are weighted and anodized aluminum for great feel and tactile response. All analog switches operate through relays for the cleanest signal while maintaining a vintage feel. Driven at the core by a high-resolution ES90128K2M ESS Sabre32 Reference digital-to-analog (DAC) converter capable of 192kHz/24-bit sample rates, the Heritage Headphone Amplifier is the ideal 2-channel audiophile-grade DAC. Featuring ESS 32-bit",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Audiophile digital to analog converter"
+                        },
+                        {
+                            "list":"Asynchronous USB interface"
+                        },
+                        {
+                            "list":"Dual amplifiers for balanced output"
+                        },
+                        {
+                            "list":"Versatile inputs and outputs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/amplifier/amp-two.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-two-product.webp",
+            "BrandName":"YAMAHA",
+            "BrandCode":"SKU: YAM-684282-A-DE",
+            "ProductName":"Yamaha A-S3000 Natural Sound Integrated Amplifier",
+            "ActualPrice":"503949",
+            "Price":"503949",
+            "Rating":"3",
+            "Stock":"21",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"A piano comes into this world through the perfect synergy of advanced technical skill and artistry. Such a piano can create sound that truly reflects the player's feelings. The final stage in piano production is called “voicing.” This breathes life into the instrument and truly makes it musical. To accomplish this, highly skilled experts focus their concentration and sensitivity completely on each note and delicately adjust the hardness and resilience of the hammers that strike the strings, establishing the perfect, consistent sound for the entire instrument and determining its tonal personality.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Rigid Streamlined Construction: provides strict anti-vibration protection, and enables shortest cabling routes"
+                        },
+                        {
+                            "list":"Large toroidal transformer, solidly mounted with independent three-dimensional inner frame"
+                        },
+                        {
+                            "list":"Comprehensive low impedance design, shortened signal paths and copper-plated chassis"
+                        },
+                        {
+                            "list":"Direct drawing toroidal transformer for complete elimination of signal transmission loss"
+                        },
+                        {
+                            "list":"Superior quality electronic volume control for optimum sound"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/amplifier/amp-three.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-three-product.webp",
+            "BrandName":"MARANTZ",
+            "BrandCode":"SKU: MAR-740820-SA--DE",
+            "ProductName":"Marantz SA-KI Ruby Integrated Amplifier",
+            "ActualPrice":"287928",
+            "Price":"287928",
+            "Rating":"4.7",
+            "Stock":"7",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Marantz has been designing and making amplifiers for more than 65 years, and for 40 of those the products have reflected expertise of Ken Ishiwata. Now, to mark his four decades with the company, the SA-KI Ruby SACD player has been developed and tuned by a highly experienced engineering team led by KI himself. Features the same disc mechanisms as the SA10 that play SACDs, CDs and compilations on CD-ROM or DVD-ROM.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Engineered and extensively tuned by legendary Marantz sound master Ken Ishiwata and his team, drawing on more than 35 years of Marantz expertise in CD players"
+                        },
+                        {
+                            "list":"Marantz-proprietary SACD/CD mechanism “SACDM-3” designed purely for audio Playback of SACD/CD and compilations on CD-ROM and DVD-ROM"
+                        },
+                        {
+                            "list":"Asynchronous USB input for hi-res audio up to PCM/DXD 384kHz/32bit and DSD11.2MHz"
+                        },
+                        {
+                            "list":"Power supply with toroidal transformer"
+                        },
+                        {
+                            "list":"Laser-engraved Ken Ishiwata signature and Ruby motif, marking Ishiwata’s 40-year Marantz legacy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/amplifier/amp-four.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-four-product.webp",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-237065-KAR-DE",
+            "ProductName":"Harman Kardon Omni Adapt + Amplifier Wireless HD Amplifier",
+            "ActualPrice":"35999",
+            "Price":"35999",
+            "Rating":"4.4",
+            "Stock":"40",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Harman Kardon Omni Adapt+Amp is a wireless, HD music amplifier with 2 x 60 watts of stereo amplification. It upgrades your existing stereo loudspeakers to become a wireless HD music system. It also adds access to music services such as Spotify Connect and Chromecast built-in. Simple to set up and easy to operate, the Adapt+Amp is the fastest way to play your music wireless anywhere in your home with one speaker or many!",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Rated power: 2 x 60W at 8Ω"
+                        },
+                        {
+                            "list":"Frequency response: 20Hz ~ 20kHz"
+                        },
+                        {
+                            "list":"Signal-to-noise ratio: > 80dB"
+                        },
+                        {
+                            "list":"Input connections: Bluetooth, Aux-in, Optical, Wi-Fi, Ethernet"
+                        },
+                        {
+                            "list":"Dimensions (W x D x H): 210mm x 190mm x 61mm"
+                        },
+                        {
+                            "list":"Power supply: 100-240V~50/60Hz"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "imageURL":"/image/product/amplifier/amp-five.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-five-product.webp",
+            "BrandName":"CAMBRIDGE",
+            "BrandCode":"SKU: CAM-593900-CXA-DE",
+            "ProductName":"Cambridge CXA60 Integrated Amp",
+            "ActualPrice":"53459",
+            "Price":"53459",
+            "Rating":"4.1",
+            "Stock":"16",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Designing the CXA60 was a challenge that was accepted with open arms by our engineers. We wanted an amp that sounded more musical and energetic than anything we’ve made before. They beavered away for months and after some particularly late nights they eventually nailed it. To achieve this they used some unique engineering techniques, some very premium components, and some great ears for detail.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Power Output: 60W RMS into 8 Ohms, 90W RMS into 4 Ohms"
+                        },
+                        {
+                            "list":"Frequency Response: <5Hz– 60kHz +/-1dB"
+                        },
+                        {
+                            "list":"DAC: Wolfson WM8740"
+                        },
+                        {
+                            "list":"Digital audio inputs: 1 x S/PDIF coaxial, 2 x TOSLINK optical, Bluetooth via BT100 (not supplied)"
+                        },
+                        {
+                            "list":"Outputs: Speakers A+B, 3.5mm Headphone, Preamp Output, Subwoofer Output"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/amplifier/amp-six.webp",
+            "ProductImageURL":"/image/product/amplifier/amp-six-product.webp",
+            "BrandName":"CAMBRIDGE",
+            "BrandCode":"SKU: CAM-628304-AZU-DE",
+            "ProductName":"Cambridge Azur 651W",
+            "ActualPrice":"49608",
+            "Price":"49608",
+            "Rating":"4.8",
+            "Stock":"22",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Azur 651W is a two channel power amplifier, capable of producing 100W per channel into 8 Ohms or 150W per channel into 4 Ohms and with a frequency response of 5Hz – 80kHz +-1dB. It's designed specifically to be partnered with a high quality preamplifier such as the Stream Magic 6.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Power Output: 100W per channel into 8 Ohms 150W per channel into 4 Ohms"
+                        },
+                        {
+                            "list":"Frequency Response: 5Hz – 80kHz +-1dB"
+                        },
+                        {
+                            "list":"Input impedances: Balanced input 38 kOhm Unbalanced input 68 kOhm"
+                        },
+                        {
+                            "list":"Trigger out: 12V DC @ 100mA"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Audio":[
+        {
+            "imageURL":"/image/product/audio/audio-one.webp",
+            "ProductImageURL":"/image/product/audio/audio-one-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-578733-NW--BL",
+            "ProductName":"Sony NW-E395 Walkman Audio Player",
+            "ActualPrice":"6699",
+            "Price":"6699",
+            "Rating":"4.1",
+            "Stock":"19",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"Yes",
+            "DefaultSize":"4",
+            "ProductListName":"Capacity",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"black",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"black",
+                    "DisplayColor":"black",
+                    "ProductImageURL":"/image/product/audio/audio-one-product.jpg",
+                    "ProductList":[
+                        {
+                            "Size":"4",
+                            "SizeName":"Size",
+                            "ActualPrice":"6699",
+                            "Price":"6699",
+                            "BrandCode":"SKU: SON-578733-NW--BL",
+                            "Stock":"19"
+                        },
+                        {
+                            "Size":"8",
+                            "SizeName":"Size",
+                            "ActualPrice":"10877",
+                            "Price":"10877",
+                            "BrandCode":"SKU: SON-123669-NW--BL",
+                            "Stock":"15"
+                        }
+                        ,
+                        {
+                            "Size":"16",
+                            "SizeName":"Size",
+                            "ActualPrice":"18177",
+                            "Price":"18177",
+                            "BrandCode":"SKU: SON-695494-NW--BL",
+                            "Stock":"7"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"red",
+                    "DisplayColor":"red",
+                    "ProductImageURL":"/image/product/audio/audio-one-product-red.webp",
+                    "ProductList":[
+                        {
+                            "Size":"4",
+                            "SizeName":"Size",
+                            "ActualPrice":"6699",
+                            "Price":"6699",
+                            "BrandCode":"SKU: SON-626609-NW--RE",
+                            "Stock":"25"
+                        },
+                        {
+                            "Size":"8",
+                            "SizeName":"Size",
+                            "ActualPrice":"10877",
+                            "Price":"10877",
+                            "BrandCode":"SKU: SON-670406-NW--RE",
+                            "Stock":"11"
+                        },
+                        {
+                            "Size":"16",
+                            "SizeName":"Size",
+                            "ActualPrice":"18177",
+                            "Price":"18177",
+                            "BrandCode":"SKU: SON-395041-PS--RE",
+                            "Stock":"5"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"This lightweight Walkman® can play MP3s for up to 50 hours between charges, and with a simple drag and drop interface it’s easy to load up all your music. The easy-to-use controls let you find the right song, view photos and tune the radio in seconds.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Great-sounding music in one step with ClearAudio+"
+                        },
+                        {
+                            "list":"4, 8 or 16 GB on-board storage"
+                        },
+                        {
+                            "list":"Plays PCM, AAC, WMA and MP3 files"
+                        },
+                        {
+                            "list":"Alarm and timer function, Playlists compatible, Earbud style Headphones and USB cable included"
+                        },
+                        {
+                            "list":"Up to 35 hours of battery life"
+                        },
+                        {
+                            "list":"Charging Time (full charge) : 2 hours"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/audio/audio-two.jpg",
+            "ProductImageURL":"/image/product/audio/audio-two-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-637686-NW--YE",
+            "ProductName":"Sony NW-A26HNYM Hi-Res Walkman Digital Music Player with Noise Cancellation",
+            "ActualPrice":"22899",
+            "Price":"22899",
+            "Rating":"4.4",
+            "Stock":"24",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"Yes",
+            "DefaultSize":"16",
+            "ProductListName":"Capacity",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"yellow",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"yellow",
+                    "DisplayColor":"yellow",
+                    "ProductImageURL":"/image/product/audio/audio-two-product.webp",
+                    "ProductList":[
+                        {
+                            "Size":"16",
+                            "SizeName":"Size",
+                            "ActualPrice":"22899",
+                            "Price":"22899",
+                            "BrandCode":"SKU: SON-637686-NW--YE",
+                            "Stock":"24"
+                        },
+                        {
+                            "Size":"32",
+                            "SizeName":"Size",
+                            "ActualPrice":"23129",
+                            "Price":"23129",
+                            "BrandCode":"SKU: SON-680187-NW--YE",
+                            "Stock":"15"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"silver",
+                    "DisplayColor":"silver",
+                    "ProductImageURL":"/image/product/audio/audio-two-product-silver.webp",
+                    "ProductList":[
+                        {
+                            "Size":"16",
+                            "SizeName":"Size",
+                            "ActualPrice":"22899",
+                            "Price":"22899",
+                            "BrandCode":"SKU: SON-861374-NW--SI",
+                            "Stock":"12"
+                        },
+                        {
+                            "Size":"32",
+                            "SizeName":"Size",
+                            "ActualPrice":"23399",
+                            "Price":"23399",
+                            "BrandCode":"SKU: SON-423786-NW--SI",
+                            "Stock":"6"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Give every track the headspace it deserves. Coupling the hear-to-believe clarity of High-Resolution Audio, with premium Noise Canceling headphones, the NW-A20 series puts you at the heart of the music you love.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"High-Resolution Audio compatible"
+                        },
+                        {
+                            "list":"S-Master HX digital amplifier for pure sound quality"
+                        },
+                        {
+                            "list":"Hear music at its best with this 32/64GB Hi-Res Walkman, Focus on the music with the included Noise Cancelling headphones, Playback; FLAC, WAV, AIFF, ALAC, MP3 files and more"
+                        },
+                        {
+                            "list":"Listen longer with up to 50 hours of battery life, Upscale compressed audio files to near Hi-Res quality with DSEE HX, S-Master HX digital amp delivers accurate, detailed music playback"
+                        },
+                        {
+                            "list":"Enjoy high-quality wireless music streaming via Bluetooth"
+                        },
+                        {
+                            "list":"Great-sounding music in one step with ClearAudio+"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/audio/audio-three.jpg",
+            "ProductImageURL":"/image/product/audio/audio-three-product.jpg",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-987561-SE--DE",
+            "ProductName":"Pioneer PL-990 Automatic Stereo Turntable",
+            "ActualPrice":"12879",
+            "Price":"12879",
+            "Rating":"4.6",
+            "Stock":"41",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The PL-990 is a fully automatic turntable with a built-in phono equalizer that has the ability to connect directly to a line or auxiliary input. It also includes a moving magnet cartridge that has a diamond stylus",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Two speeds so you can play LPs and 45s"
+                        },
+                        {
+                            "list":"Fully automatic operation means you push a single button to play a record and the unit automatically suts itself off"
+                        },
+                        {
+                            "list":"Low-mass straight tone arm: Highly sensitive and resistant to resonance, track records better"
+                        },
+                        {
+                            "list":"Universal-type cartridge connector"
+                        },
+                        {
+                            "list":"Built-in phono Equalizer - Simply connect to any auxilliary/line Input on your amplifier or mini Audio system"
+                        },
+                        {
+                            "list":"Low-vibration, belt-drive design"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/audio/audio-four.jpg",
+            "ProductImageURL":"/image/product/audio/audio-four-product.jpg",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-434147-HI--DE",
+            "ProductName":"Pioneer Hi-Res Digital Audio Player XDP-300R(S)",
+            "ActualPrice":"50332",
+            "Price":"50332",
+            "Rating":"3.9",
+            "Stock":"34",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Enjoy hi-res audio with the silver XDP-300R Digital Audio Player from Pioneer. This portable player features a 4.7', It comes with 32GB of built-in memory and features dual microSD card slots for expanding the base storage even further. The XDP-300R is equipped with both 2.5mm balanced and 3.5mm headphone outputs. It also supports Bluetooth and Wi-Fi technology for streaming audio. Audio can also be played via the micro-USB-B/OTG digital output.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"In addition to the DAC and amplifier of the highest class, also equipped with Android OS. Equipped with a high-resolution model / highest level of DAC and amplifier also corresponding to the balance output by two groups, adopting the audio-grade parts. 300R dedicated tuning"
+                        },
+                        {
+                            "list":"Equipped with ESS manufactured by DAC 'ES9018K2M' amplifier 'SABRE9601K' one by each of the two groups"
+                        },
+                        {
+                            "list":"Corresponds to the most recent 'MQA'. MQA Limited is corresponding to the reproduction of became the developer 'MQA' / â— 2 one of balance drive that you can select according to preference"
+                        },
+                        {
+                            "list":"Universal-type cartridge connector"
+                        },
+                        {
+                            "list":"High precision graphic equalizer which can adjust the volume of up to 16,384 band (frequency band)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/audio/audio-five.webp",
+            "ProductImageURL":"/image/product/audio/audio-five-product.webp",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-950530-CRU-DE",
+            "ProductName":"JBL Cruise Bluetooth Handlebar Speaker Kit",
+            "ActualPrice":"14329",
+            "Price":"14329",
+            "Rating":"4.3",
+            "Stock":"7",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"JBL Cruise is a purpose built audio system specifically engineered for the needs of Motorcycle and Scooter applications. Far safer than using in-ear headphones, Cruise will provide more smiles per gallon. Easily stream music using any Bluetooth enabled device and keep it charged via the integrated USB port. A pair of 65mm transducers, powered by a built-in digital amplifier, produces a concert experience like no other. All of this technology and performance is packaged in glove friendly, IPX5 rated package that mounts to nearly any motorcycle or scooter utilizing our JBL's patent pending mirror integration mount. And for the rider that likes to customize, Cruise is easily paintable to match their style",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"JBL Cruise"
+                        },
+                        {
+                            "list":"6 x Installation Bolts"
+                        },
+                        {
+                            "list":"6 x Installation Nuts"
+                        },
+                        {
+                            "list":"Quick Start Guide"
+                        },
+                        {
+                            "list":"Warranty Card"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/audio/audio-six.webp",
+            "ProductImageURL":"/image/product/audio/audio-six-product.webp",
+            "BrandName":"YAMAHA",
+            "BrandCode":"SKU: YAM-810733-WX-BL",
+            "ProductName":"Yamaha WX-010 MusicCast Multiroom Digital Music System",
+            "ActualPrice":"12899",
+            "Price":"12899",
+            "Rating":"4.7",
+            "Stock":"44",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"black",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"black",
+                    "DisplayColor":"black",
+                    "ProductImageURL":"/image/product/audio/audio-six-product.webp",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"12899",
+                            "Price":"12899",
+                            "BrandCode":"SKU: YAM-810733-WX-BL",
+                            "Stock":"44"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"white",
+                    "DisplayColor":"white",
+                    "ProductImageURL":"/image/product/audio/audio-six-product-white.webp",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"13899",
+                            "Price":"13899",
+                            "BrandCode":"SKU: YAM-456365-WX-WH",
+                            "Stock":"8"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"With a stylish, space-saving design that fits anywhere in your home, this MusicCast speaker lets you stream music wirelessly using your existing Wi-Fi® network. Use it as a stand-alone streaming music system or add more MusicCast products like additional speakers, AV receivers or sound bars over time and control them all with a simple app. In addition to Wi-Fi, this speaker also supports Bluetooth® and AirPlay®, allowing for greater wireless connection flexibility. Two units can be used in stereo mode for a more expansive and lifelike listening experience.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Compact design that fits anywhere in your home"
+                        },
+                        {
+                            "list":"Access to your music library, Pandora®, Napster, TIDAL, Deezer, Spotify, SiriusXM Internet Radio and more"
+                        },
+                        {
+                            "list":"Versatile connectivity – Wi-Fi, Bluetooth, AirPlay and Spotify Connect"
+                        },
+                        {
+                            "list":"Free MusicCast Controller app for Apple® iOS and Android™ devices"
+                        },
+                        {
+                            "list":"Voice control using your Alexa device like Echo or Echo Dot"
+                        },
+                        {
+                            "list":"Great-sounding music in one step with ClearAudio+"
+                        }
+                    ]
+                }
+            ]
+        }    
+    ],
+    "Bluetooth":[
+        {
+            "imageURL":"/image/product/bluetooth/blue-one.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-one-product.webp",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-324120-E55-DU",
+            "ProductName":"JBL E55BT Quincy Edition Wireless Over-Ear Headphones",
+            "ActualPrice":"14329",
+            "Price":"14329",
+            "Rating":"4.7",
+            "Stock":"36",
+            "New":"No",
+            "OurSelection":"Yes",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"Dusty Rose",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Dusty Rose",
+                    "DisplayColor":"#DCAE96",
+                    "ProductImageURL":"/image/product/bluetooth/blue-one-product.webp",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"14329",
+                            "Price":"14329",
+                            "BrandCode":"SKU: JBL-324120-E55-DU",
+                            "Stock":"36"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Space Grey",
+                    "DisplayColor":"#343d52",
+                    "ProductImageURL":"/image/product/bluetooth/blue-one-product-black.webp",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"14999",
+                            "Price":"14999",
+                            "BrandCode":"SKU: JBL-393434-E55-SP",
+                            "Stock":"13"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"JBL E55BT wireless over-ear headphones bring the signature sound of JBL right to your ears. The E55BT is one of our most versatile packages ever, featuring up to 20 hours of battery life and an innovative, stylish fabric headband that emphasises your fashion quotient. The ergonomic around-ear design means that your entertainment continues and your fun factor gets amped up no matter what you’re doing – working, commuting, or just making your way around town. Multi-device connectivity allows you to seamlessly switch between two devices, so you never miss a call. With a sleek appearance, various color options and the added convenience of a detachable cable with remote and microphone, you’ll never want to be seen without your E55BT headphones.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"JBL Signature Sound: delivered by powerful 50mm drivers in a sleek, stylish design."
+                        },
+                        {
+                            "list":"Up to 20-hour battery life: Enjoy an entire day or more of wireless audio without having to plug your headphones back in to charge."
+                        },
+                        {
+                            "list":"Connect and Share: With ShareMe 2.0 technology, now you can pair your headphones with other Bluetooth headphones to share your music, videos, and games across any brand – wirelessly."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-two.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-two-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-711474-GO--RE",
+            "ProductName":"JBL Go2 Portable Bluetooth Speaker",
+            "ActualPrice":"2799",
+            "Price":"2799",
+            "Rating":"4.8",
+            "Stock":"43",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"red",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"red",
+                    "DisplayColor":"red",
+                    "ProductImageURL":"/image/product/bluetooth/blue-two-product.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2799",
+                            "Price":"2799",
+                            "BrandCode":"SKU: JBL-711474-GO--RE",
+                            "Stock":"43"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Champagne",
+                    "DisplayColor":"#F7E7CE",
+                    "ProductImageURL":"/image/product/bluetooth/blue-two-product-gold.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2899",
+                            "Price":"2899",
+                            "BrandCode":"SKU: JBL-147876-GO--CH",
+                            "Stock":"21"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Cyan",
+                    "DisplayColor":"#AFEEEE",
+                    "ProductImageURL":"/image/product/bluetooth/blue-two-product-blue.webp",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2799",
+                            "Price":"2899",
+                            "BrandCode":"SKU: JBL-838517-GO--CY",
+                            "Stock":"52"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The JBL Go 2 is a full-featured waterproof Bluetooth speaker to take with you everywhere. Wirelessly stream music via Bluetooth for up to 5 hours of continuous JBL quality sound. Making a splash with its new IPX7 waterproof design, Go 2 gives music lovers the opportunity to bring their speaker poolside, or to the beach. Go 2 also offers crystal clear phone call experience with its built-in noise-cancelling speakerphone. Crafted in a compact design with 12 eye-catching colors to choose from, Go 2 instantly raises your style profile to all-new levels.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Wireless Bluetooth Streaming"
+                        },
+                        {
+                            "list":"JBL Connect+"
+                        },
+                        {
+                            "list":"Voice Assistant Integration"
+                        },
+                        {
+                            "list":"JBL Bass Radiator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-three.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-three-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-429225-TUN-BL",
+            "ProductName":"JBL Tune 205BT Wireless Earbuds",
+            "ActualPrice":"2299",
+            "Price":"1999",
+            "Rating":"4.5",
+            "Stock":"47",
+            "New":"No",
+            "OurSelection":"Yes",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"black",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"black",
+                    "DisplayColor":"black",
+                    "ProductImageURL":"/image/product/bluetooth/blue-three-product.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2299",
+                            "Price":"1999",
+                            "BrandCode":"SKU: JBL-429225-TUN-BL",
+                            "Stock":"47"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Champagne Gold",
+                    "DisplayColor":"#E8D4B4",
+                    "ProductImageURL":"/image/product/bluetooth/blue-three-product-gold.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2299",
+                            "Price":"1999",
+                            "BrandCode":"SKU: JBL-138532-TUN-CH",
+                            "Stock":"21"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Introducing JBL Tune 205BT wireless earbud headphones with JBL Pure Bass Sound. Thanks to the 6-hour battery life they can wirelessly stream JBL Pure Bass sound and provide hands-free call management. Inside the premium housing is a pair of 12.5 mm drivers which will punch out some serious bass, while the soft, ergonomically shaped earbuds ensure the listening experience remains comfortable for long-listening hours. In addition, a single-button remote lets you control music playback, as well as answer calls on the fly with the built-in microphone, making the JBL Tune 205BT your everyday companion for work, at home and on the go.",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Pair of Tune 205BT headphones"
+                        },
+                        {
+                            "list":"Charging cable"
+                        },
+                        {
+                            "list":"Safety Sheet"
+                        },
+                        {
+                            "list":"Quick Start Guide"
+                        },
+                        {
+                            "list":"Warranty Card"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-four.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-four-product.webp",
+            "BrandName":"YAMAHA",
+            "BrandCode":"SKU: YAM-393732-MUSICCAST-BL",
+            "ProductName":"Yamaha MusicCast 20 Wireless Speaker",
+            "ActualPrice":"16499",
+            "Price":"16499",
+            "Rating":"4.1",
+            "Stock":"27",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"It’s how we connect. The MusicCast 20 delivers versatile listening with ease - able to be used as a standalone speaker, paired, or acting as surround speakers with a compatible MusicCast AV receiver or sound bar. The MusicCast 20 makes your music and movies more enjoyable - maybe in ways you never imagined. It's a perfect fit for any space, any decor, and can even be wall-mounted. Pair two together to create a powerful wireless stereo sound. ",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Music streaming services built-in"
+                        },
+                        {
+                            "list":"MusicCast multi-room technology"
+                        },
+                        {
+                            "list":"Stereo pairing (requires 2 units)"
+                        },
+                        {
+                            "list":"Ability to be used as surround speakers with an AV receiver or sound bar (Select MusicCast models only)"
+                        },
+                        {
+                            "list":"Soft-touch, simple presets for instant playback"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-five.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-five-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-859042-CHA-BL",
+            "ProductName":"JBL Charge 3 Portable Bluetooth Speaker",
+            "ActualPrice":"7129",
+            "Price":"7129",
+            "Rating":"4.1",
+            "Stock":"44",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"JBL Charge 3 is the ultimate, high-powered portable Bluetooth speaker with powerful stereo sound and a power bank all in one package. The Charge 3 takes the party everywhere, poolside or in the rain, thanks to the waterproof design, durable fabric and rugged housing. Its high-capacity 6,000mAh battery provides 20 hours of playtime and can charge your smartphones and tablets via its USB output. A built-in noise and echo-cancelling speakerphone gives you crystal clear calls with the press of a button. Wirelessly link multiple JBL Connect-enabled speakers to amplify the listening experience.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Bluetooth: wirelessly connect up to 3 smartphones or tablets to the speaker and take turns playing powerful stereo sound"
+                        },
+                        {
+                            "list":"Battery type: Lithium-ion Polymer (22.2Wh) 20 hours of playtime (varies by volume level and content)"
+                        },
+                        {
+                            "list":"IPX7 Waterproof"
+                        },
+                        {
+                            "list":"Take crystal clear calls from your speaker with the touch of a button thanks to the noise and echo-cancelling speakerphone"
+                        },
+                        {
+                            "list":"Build your own ecosystem by connecting multiple JBL Connect enabled speakers together to amplify the listening experience"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-six.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-six-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-773433-PLA-BL",
+            "ProductName":"JBL Playlist Wireless Speaker with Chromecast Built-In",
+            "ActualPrice":"10199",
+            "Price":"10199",
+            "Rating":"3.5",
+            "Stock":"8",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"JBL Playlist speakers have Chromecast built-in, so you can instantly cast music from your favorite music app, radio, or podcast to your speaker using your smart device. You can control the speakers from anywhere in the house on your iOS or Android device(s) in the house on your device(s) -- iPhone®, iPad®, Android™ phone or tablet, Mac® or Windows® laptop, or Chromebook.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"30-watt Playback System with 2x 2.25' Speakers"
+                        },
+                        {
+                            "list":"Chromecast and Bluetooth Audio Receivers"
+                        },
+                        {
+                            "list":"Dual-band Wi-Fi Support"
+                        },
+                        {
+                            "list":"Chromecast and Bluetooth Audio Receivers"
+                        },
+                        {
+                            "list":"Dual-band Wi-Fi Support"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Ear Buds":[
+        {
+            "imageURL":"/image/product/ear/ear-one.jpg",
+            "ProductImageURL":"/image/product/ear/ear-one-product.jpg",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-916921-R6M-DE",
+            "ProductName":"Klipsch R6m In-Ear Headphones",
+            "ActualPrice":"7129",
+            "Price":"7129",
+            "Rating":"4.1",
+            "Stock":"9",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The same advanced acoustic engineering and industrial design from our legendary Reference home theater speakers provide the performance, voice and design for the Klipsch Reference R6m monitors. Specifically engineered for mobile devices, the R6m headphones give you a front stage pass to your music collection whether you are an Apple®, Android™, Windows® or BlackBerry® user.>",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Dual Magnet, Dynamic Moving Coil Micro Speaker"
+                        },
+                        {
+                            "list":"Single-Button Remote + Mic For Most Mobile Devices"
+                        },
+                        {
+                            "list":"Flat Tangle-Resistant Cable"
+                        },
+                        {
+                            "list":"Patented Oval Ear Tips"
+                        },
+                        {
+                            "list":"Black And White Finishes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/ear/ear-two.webp",
+            "ProductImageURL":"/image/product/ear/ear-two-product.webp",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-618377-XR8-DE",
+            "ProductName":"Klipsch XR8i In-Ear Headphones",
+            "ActualPrice":"20099",
+            "Price":"20099",
+            "Rating":"4.6",
+            "Stock":"38",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Combining the thundering, rich bass of R6i’s custom 6.5mm dual magnet dynamic driver with the exceptional tonal balance and high-frequency definition of the KG-723 balanced armature, the Klipsch XR8i Hybrid In-Ear Headphones deliver sound only paralleled by a home theater. Built with a true downward-firing subwoofer, the XR8i makes no compromises.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"KG-2365 AcuPass(R) Two-Way Hybrid Driver"
+                        },
+                        {
+                            "list":"KG-065 Dynamic Woofer"
+                        },
+                        {
+                            "list":"KG-723 Balanced Armature Tweeter"
+                        },
+                        {
+                            "list":"Die-Cast Zinc and Co-Molded Elastomer Housing"
+                        },
+                        {
+                            "list":"Patented Oval Ear Tips (4 Different Pairs)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/ear/ear-three.webp",
+            "ProductImageURL":"/image/product/ear/ear-three-product.webp",
+            "BrandName":"SHURE",
+            "BrandCode":"SKU: SHU-138890-SE2-DE",
+            "ProductName":"Shure SE215m+SPE Special Edition Sound Isolating Earphones with Remote + Mic",
+            "ActualPrice":"8599",
+            "Price":"8599",
+            "Rating":"4.2",
+            "Stock":"23",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The SE215 delivers detailed sound with enhanced bass. A detachable cable with formable wire enables easy replacement and a secure, comfortable fit onstage or on-the-go. Sound Isolating sleeves in multiple sizes provide up to 37 dB of isolation and a customized fit.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Dynamic MicroDriver produces a warm, detailed sound with resonant bass"
+                        },
+                        {
+                            "list":"Detachable, durable reinforced cable"
+                        },
+                        {
+                            "list":"Sound isolating design blocks up to 37 dB of ambient noise"
+                        },
+                        {
+                            "list":"Fit Kit with various sizes of foam and silicone sleeves provides sound isolation and optimises bass response"
+                        },
+                        {
+                            "list":"Gold plated MMCX connector with lock snap mechanism allows 360-degree rotation for comfortable fit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/ear/ear-four.webp",
+            "ProductImageURL":"/image/product/ear/ear-four-product.webp",
+            "BrandName":"SHURE",
+            "BrandCode":"SKU: SHU-646224-SE5-DE",
+            "ProductName":"Shure SE535LTD Limited Edition Red Sound Isolating Earphones with Remote + Mic",
+            "ActualPrice":"35999",
+            "Price":"35999",
+            "Rating":"4.9",
+            "Stock":"6",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The SE535 delivers spacious, surround sound with a striking separation of highs and lows straight to your brain. Precise clarity with a driving beat will have you checking your pulse. Used by the pros during performance, these triple driver earphones have two dedicated woofers and a separate tweeter for enhanced highs with blood-pumping bass. Refined over decades to our own exacting standards, they’re the preferred model for professional musicians you know and love. Put a pair of the SE535’s in your ears and hear your world expand.",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Bluetooth 4.1 Communication Cable"
+                        },
+                        {
+                            "list":"Universal 3.5 mm communication cable"
+                        },
+                        {
+                            "list":"Micro-USB Charging Cable"
+                        },
+                        {
+                            "list":"6.3mm (¼”) adapter"
+                        },
+                        {
+                            "list":"Fit Kit with wide Variety of Sleeves"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/ear/ear-five.webp",
+            "ProductImageURL":"/image/product/ear/ear-five-product.webp",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-966070-R6I-DE",
+            "ProductName":"Klipsch R6i In-Ear Headphones",
+            "ActualPrice":"5699",
+            "Price":"5699",
+            "Rating":"3.9",
+            "Stock":"59",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The same advanced acoustic engineering and industrial design from our legendary Reference home theater speakers provide the performance, voice and design for the Klipsch Reference R6i in-ear monitors. The Reference R6i in-ear headphones are engineered for pure performance and designed to be the best sounding, most comfortable headphones on Earth and the embodiment of legendary Klipsch sound at a mouth-watering price point. These beauties are constructed from aluminum and elastomer, making for a sleek design that is lightweight, durable and comfortable.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Dual Magnet, Dynamic Moving Coil Micro Speaker"
+                        },
+                        {
+                            "list":"Three-Button Remote + Mic For iOS Devices"
+                        },
+                        {
+                            "list":"Flat Tangle-Resistant Cable"
+                        },
+                        {
+                            "list":"Patented Oval Ear Tips"
+                        },
+                        {
+                            "list":"Comes With Carrying Case, Clothing Clip And 4 Pairs of Ear Tips"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/ear/ear-six.webp",
+            "ProductImageURL":"/image/product/ear/ear-six-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-208183-REF-BL",
+            "ProductName":"JBL Reflect Mini 2 Wireless In-Ear Sport Headphones with Three-Button Remote and Mic",
+            "ActualPrice":"7129",
+            "Price":"7129",
+            "Rating":"4.3",
+            "Stock":"78",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Introducing a wireless headphone designed to match your love for sport with your active lifestyle. The JBL Reflect Mini 2 fits every ear shape and size with ergonomic silicone tips and patented Freebit™ enhancers, available in 3 sizes for customized comfort. Its sweatproof, lightweight aluminum design is stylish and feels effortless, while a 3-button remote and mic keeps music and calls conveniently close at hand. Its reflective cable keeps you more visible during nighttime routines. And with 10 hours of battery life powering signature JBL sound, you can keep moving without ever missing a beat. With the touch of a button you can conveniently manage your calls and access the voice assistant.",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Reflect Mini 2"
+                        },
+                        {
+                            "list":"3 Sizes of ergonomic sport ear tips (S, M, L)"
+                        },
+                        {
+                            "list":"3 x Enhancer"
+                        },
+                        {
+                            "list":"Safety Sheet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "New Arrivals":[
+        {
+            "imageURL":"/image/product/new/new-one.webp",
+            "ProductImageURL":"/image/product/new/new-one-product.jpg",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-987561-SE--DE",
+            "ProductName":"Pioneer PL-990 Automatic Stereo Turntable",
+            "ActualPrice":"12999",
+            "Price":"12999",
+            "Rating":"3.5",
+            "Stock":"92",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The PL-990 is a fully automatic turntable with a built-in phono equalizer that has the ability to connect directly to a line or auxiliary input. It also includes a moving magnet cartridge that has a diamond stylus.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Two speeds so you can play LPs and 45s"
+                        },
+                        {
+                            "list":"Fully automatic operation means you push a single button to play a record and the unit automatically suts itself off"
+                        },
+                        {
+                            "list":"Low-mass straight tone arm: Highly sensitive and resistant to resonance, track records better"
+                        },
+                        {
+                            "list":"Universal-type cartridge connector"
+                        },
+                        {
+                            "list":"Moving magnet cartridge included"
+                        },
+                        {
+                            "list":"Built-in phono Equalizer - Simply connect to any auxilliary/line Input on your amplifier or mini Audio system"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/new/new-two.webp",
+            "ProductImageURL":"/image/product/new/new-two-product.webp",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-764127-KAR-DE",
+            "ProductName":"Harman Kardon Citation Surround - Pair",
+            "ActualPrice":"35999",
+            "Price":"35999",
+            "Rating":"4.3",
+            "Stock":"19",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Harman Kardon Citation Surround is a next generation wireless surround sound speaker. Easy to set up and use, Citation Surround blends innovation in home audio with attention to detail in design, allowing for sophisticated looks and surround sound for an immersive movie and music experience when paired with Citation Bar, and Citation Sub and/or Citation Tower. Get the full 5.1 home theater surround sound experience without the cables. With automatic software updates, your Citation Surround will always be up to date and at its best.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Power Supply: 100-240V – 50/60Hz"
+                        },
+                        {
+                            "list":"Power consumption in sleep mode: < 2.0 Watts"
+                        },
+                        {
+                            "list":"Signal-to-noise ratio: >80dB"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/new/new-three.webp",
+            "ProductImageURL":"/image/product/new/new-three-product.webp",
+            "BrandName":"PIONEER",
+            "BrandCode":"SKU: PIO-254328-SLI-SI",
+            "ProductName":"Pioneer SE-MS7BT-K High Resolution Compatible Dynamic Sealed Bluetooth Headphones",
+            "ActualPrice":"9288",
+            "Price":"9288",
+            "Rating":"4.5",
+            "Stock":"7",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"To ensure that you are getting the best sound, the SE-MS7BT supports Qualcomm® aptXTM audio and AAC for high quality audio. By having NFC built-in, this makes it simple to pair another device by simply touching the devices together. The SE-MS7BT headphones utilize Hi-Res capable large 40mm drivers that are fitted perfectly to the wide cushioned ear cups. The SE-MS7BT has controls built into the headphones. But don’t panic when the SE-MS7BT battery runs down, Pioneer has you covered with the included wired cable that allows you to continue listening. The SE-MS7BT are available, in Black, Silver and Tan.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Bluetooth® Wireless for Music and Calling"
+                        },
+                        {
+                            "list":"Up to 12 hours Battery Life (rechargeable)"
+                        },
+                        {
+                            "list":"Use NFC for simple device pairing"
+                        },
+                        {
+                            "list":"Supports high-fidelity audio CODEC AAC / aptX (connected bluetooth device will also need to support aptX and AAC codecs)"
+                        },
+                        {
+                            "list":"NFC (Near Field Communication) one-touch connection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/new/new-four.webp",
+            "ProductImageURL":"/image/product/new/new-four-product.webp",
+            "BrandName":"MASTER & DYNAMIC",
+            "BrandCode":"SKU: MAS-294560-DYN-BR",
+            "ProductName":"Master Dynamic MW50S1+ 2-In-1 Wireless On Over-Ear Headphones",
+            "ActualPrice":"28799",
+            "Price":"28799",
+            "Rating":"4.8",
+            "Stock":"23",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Our MW50+ Wireless Headphones are the mobile wireless thinking cap: wireless tools to help focus, inspire, and transport your mind. Designed for decades of use, our Bluetooth headphones are built with only the finest materials and tuned to provide a rich, detailed and expansive sound. Form meets function with interchangeable on & over ear pads, exposed all-aluminum antenna provides best-in-class signal range. Now with IPX4 & one-third lighter weight than our MW60s, our MW50+s are the perfect wireless headphones for home, office or travel.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Interchangeable ear pads for on-ear headphones or over-ear headphones"
+                        },
+                        {
+                            "list":"Bluetooth 4.1 with aptX and wired 3.5mm options"
+                        },
+                        {
+                            "list":"Custom 40mm Beryllium diaphragm drivers"
+                        },
+                        {
+                            "list":"Intuitive on-device controls"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/new/new-five.jpg",
+            "ProductImageURL":"/image/product/new/new-five-product.jpg",
+            "BrandName":"KLIPSCH",
+            "BrandCode":"SKU: KLI-212507-RP--WA",
+            "ProductName":"Klipsch RP-600M Bookshelf Speakers - Pair",
+            "ActualPrice":"39509",
+            "Price":"39509",
+            "Rating":"4.1",
+            "Stock":"17",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Klipsch proprietary Tractrix® horn-loaded technology ensures high-frequency energy of the RP-600M bookshelf speaker is aimed directly at the listener and reduces unwanted, artificial reverb caused by indirect sound bouncing off walls - meaning you experience the most clear, detailed, lifelike sound possible.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Dual binding posts for bi-wire/bi-amp"
+                        },
+                        {
+                            "list":"Premium Scratch Resistant Ebony and Walnut Finishes"
+                        },
+                        {
+                            "list":"Strong, Flexible Removable Magnetic Grille"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/new/new-six.webp",
+            "ProductImageURL":"/image/product/new/new-six-product.webp",
+            "BrandName":"FOCAL",
+            "BrandCode":"SKU: FOC-719398-CLE-BL",
+            "ProductName":"Focal Clear Professional Open-Back Reference Studio Headphones",
+            "ActualPrice":"107999",
+            "Price":"107999",
+            "Rating":"0",
+            "Stock":"11",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Clear are our brand new open-back high-fidelity headphones made in France by Focal. Continuing in the spirit of Utopia and Elear and using the best of Focal technologies, Clear offer the sensation of listening to your favourite music in a space that no longer has limits. Discover the emotion of music, thanks to Clear's ability to recreate the tiniest details of the recording.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"High-end reference circum-aural reference headphones for use in quiet environments"
+                        },
+                        {
+                            "list":"French design and manufacture, exclusive technologies from 35 years of expertise"
+                        },
+                        {
+                            "list":"Pure, technophile and elegant design, featuring an aluminium yoke and leather headband."
+                        },
+                        {
+                            "list":"Exclusive full-range speaker driver with an 'M'-shape Aluminum/Magnesium dome (patent pending)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Portable":[
+        {
+            "imageURL":"/image/product/portable/portable-one.jpg",
+            "ProductImageURL":"/image/product/portable/portable-one-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-434349-FLI-CA",
+            "ProductName":"JBL Flip 4 Waterproof Portable Bluetooth Speaker",
+            "ActualPrice":"7128",
+            "Price":"5328",
+            "Rating":"4.3",
+            "Stock":"21",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"JBL Flip 4 is the next generation in the award-winning Flip series; it is a portable Bluetooth speaker that delivers surprisingly powerful stereo sound. This compact speaker is powered by a 3000mAh rechargeable Li-ion battery that offers up to 12 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials that are available in 6 vibrant colors, Flip 4 is the all purpose, all weather companion that takes the party everywhere. It also features a built-in noise and echo cancelling speakerphone for crystal clear conference calls, and JBL Connect+ technology that can wirelessly links more than 100 JBL Connect+ enabled speakers together to amplify the listening experience. With a simple button press, you can activate and talk to Siri or Google Now from your JBL Flip 4.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Wireless Bluetooth Streaming"
+                        },
+                        {
+                            "list":"JBL Connect+"
+                        },
+                        {
+                            "list":"Voice Assistant Integration"
+                        },
+                        {
+                            "list":"JBL Bass Radiator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-two.jpg",
+            "ProductImageURL":"/image/product/portable/portable-two-product.jpg",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-929421-KAR-WH",
+            "ProductName":"Harman Kardon Go+Play Mini Portable Bluetooth Player",
+            "ActualPrice":"28728",
+            "Price":"28728",
+            "Rating":"3.9",
+            "Stock":"27",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Harman Kardon’s iconic design meets superior function in this high-performance, full-featured, portable Bluetooth speaker: the Harman Kardon Go + Play. It fills your room with a full spectrum of sound powered by its quad drivers. Thanks to the rechargeable battery, you can enjoy up to 8 hours of playtime and charge your smartphones and tablets via USB. Wirelessly connect two Harman Kardon Wireless Dual Sound enabled speakers together to elevate your music listening experience. The Go + Play is also crafted with premium materials - its stainless steel handle and fabric grill add a stylish touch to your home décor or when you are on-the-go.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Support: A2DP 1.3, AVRCP 1.6, HFP 1.6"
+                        },
+                        {
+                            "list":"Signal-to-Noise Ratio: 80dB A-weighted"
+                        },
+                        {
+                            "list":"Bluetooth transmitter frequency range: 2402MHz to 2480MHz"
+                        },
+                        {
+                            "list":"Bluetooth version: 4.1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-three.jpg",
+            "ProductImageURL":"/image/product/portable/portable-three-product.jpg",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-301761-KAR-DE",
+            "ProductName":"Harman Kardon Esquire Portable Wireless Speaker and Conferencing System",
+            "ActualPrice":"12528",
+            "Price":"12528",
+            "Rating":"3.7",
+            "Stock":"9",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Accessorise your sound – wherever it is you want to go. The Harman Kardon Esquire is a finely-crafted, portable speaker that might look different than other speaker systems because it is different. Simply put – it’s better. Prepare to travel in a completely different way. The Harman Kardon Esquire is your new, on-the-road, wireless audio system. Esquire is a Bluetooth®-enabled speaker with a built- in conference phone system that redefines how you take your music with you. This durable, portable speaker is crafted out of fine materials with a leather panel and metal finish on the outside. On this inside, it’s pure Harman Kardon engineering, with dual drivers and a built-in bass port for clear sound, as well as custom-tuned microphones and noise cancellation technology for clear conference calls from your Bluetooth®-enabled smart phone",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Harman Kardon Esquire"
+                        },
+                        {
+                            "list":"USB cable"
+                        },
+                        {
+                            "list":"3-port USB adapter"
+                        },
+                        {
+                            "list":"Carrying pouch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-four.jpg",
+            "ProductImageURL":"/image/product/portable/portable-four-product.jpg",
+            "BrandName":"CAMBRIDGE",
+            "BrandCode":"SKU: CAM-159580-AUD-GR",
+            "ProductName":"Cambridge YoYo (S) Portable Bluetooth Speaker",
+            "ActualPrice":"12888",
+            "Price":"12888",
+            "Rating":"3.5",
+            "Stock":"34",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"(S) stands for small and from the outside, that is exactly what this speaker is. Highly compact and perfectly portable. But behind the fabric, (S) boasts a range of components selected for the most powerful and high quality performance you can fit into a speaker this size. So the sound is anything but small.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Two full range drivers, subwoofer and passive bass radiator deliver incredibly powerful sound from a compact form."
+                        },
+                        {
+                            "list":"Connect any Bluetooth device and if your device supports NFC, simply tap it against the NFC logo on the top panel to connect."
+                        },
+                        {
+                            "list":"Non-bluetooth enabled devices can still experience (S) sound quality by using the included 3.5mm cable."
+                        },
+                        {
+                            "list":"14 hour built in battery means that (S) can stay firmly by your side wherever you may roam. We’ve also included a button that lets you check how much battery you have left."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-five.jpg",
+            "ProductImageURL":"/image/product/portable/portable-five-product.jpg",
+            "BrandName":"CAMBRIDGE",
+            "BrandCode":"SKU: CAM-931840-AUD-BL",
+            "ProductName":"Cambridge YoYo (M) Bluetooth Speakers - Pair",
+            "ActualPrice":"25128",
+            "Price":"25128",
+            "Rating":"4.2",
+            "Stock":"45",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"There’s no disguising that (M) was made by Hi-Fi engineers. Yes, a one box speaker is practical and space efficient, but from a sound perspective this is a compromise. Recorded music is mastered to be heard in stereo, and for that you need two speakers. Which is why we’re introducing L+R channel into the world of portable Bluetooth speakers.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"(M) speakers connect together to deliver exceptional L+R channel playback of your digital files."
+                        },
+                        {
+                            "list":"Each (M) has one full range driver and a subwoofer which deliver incredibly powerful stereo sound from compact profiles."
+                        },
+                        {
+                            "list":"Control your playback hands free by swiping your hand across the control panels. Useful mid-pasta making session or flower-bed digging."
+                        },
+                        {
+                            "list":"Built-in high quality microphone lets you make and receive calls using the speakers. Useful for group chats and keeping hands free."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-six.jpg",
+            "ProductImageURL":"/image/product/portable/portable-six-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-729961-LIN-BL",
+            "ProductName":"JBL Link 20 Voice Activated Portable Speaker",
+            "ActualPrice":"14328",
+            "Price":"7128",
+            "Rating":"4.5",
+            "Stock":"24",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The JBL Link 20 is a voice activated portable speaker with Wi-Fi and Bluetooth® enabled that delivers rich stereo sound. It has the Google Assistant built-in. It’s your own personal Google. Always ready to help. You can ask it questions. And tell it to do things. The more you use it, the more useful it gets. Just start with “Ok Google” – a simple voice request triggers your JBL Link 20 to play music, podcasts or radio from services like Google Play Music, Spotify, Pandora and more. This compact speaker is powered by a 6000mAh rechargeable Li-ion battery that offers 10 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials, JBL Link 20 is ready to take the party everywhere. And with the Chromecast built-in, you can instantly start streaming to JBL Link 20 from your favorite music apps.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Chromecast built-in"
+                        },
+                        {
+                            "list":"24 bit/96kHz High quality sound, powered by the cloud"
+                        },
+                        {
+                            "list":"Multi-room playback across speakers that have Chromecast built-in"
+                        },
+                        {
+                            "list":"Wireless Bluetooth® streaming"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Projectors":[
+        {
+            "imageURL":"/image/product/projector/projector-one.jpg",
+            "ProductImageURL":"/image/product/projector/projector-one-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-919158-VW2-DE",
+            "ProductName":"Sony VW295ES 4K HDR Home Theater Projector",
+            "ActualPrice":"359856",
+            "Price":"359856",
+            "Rating":"4.5",
+            "Stock":"61",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Big scenes are even bigger with the VW295ES 4K HDR Home Theater Projector. Screen sizes up to 200” bring lifelike 4K HDR resolution to any room. 1,500 lumens of brightness light up the action with Motion flow and Advanced Reality Creation technologies creating a crisp, sharp picture in every scene.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Native 4K image display"
+                        },
+                        {
+                            "list":"1500 lm brightness"
+                        },
+                        {
+                            "list":"Reality Creation for enhanced detail"
+                        },
+                        {
+                            "list":"HDR Compatible (HDR10/HLG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/projector/projector-two.jpg",
+            "ProductImageURL":"/image/product/projector/projector-two-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-538689-VPL-DE",
+            "ProductName":"Sony VPL-VW995ES 4K HDR Laser Home Theater Projector",
+            "ActualPrice":"2519856",
+            "Price":"2519856",
+            "Rating":"4.8",
+            "Stock":"12",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The wonder of the cinema comes home with 4K HDR clarity. A 2,200 lumen Z-Phosphor laser light source brings exceptionally bright and clear colors, contrast, and motion for over 20,000 hours of play time. With the ARC-F lens equipped for ultra-crisp images, you’ll wonder how you watched movies before the VW995ES.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"SXRD technology, with native 4K resolution"
+                        },
+                        {
+                            "list":"2,200 lumen Z-Phosphor laser light source"
+                        },
+                        {
+                            "list":"Infinite dynamic contrast ratio"
+                        },
+                        {
+                            "list":"Reality Creation for enhanced detail"
+                        },
+                        {
+                            "list":"HDR Compatible (HDR10/HLG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/projector/projector-three.jpg",
+            "ProductImageURL":"/image/product/projector/projector-three-product.jpg",
+            "BrandName":"LG",
+            "BrandCode":"SKU: LG--783075-PF5-DE",
+            "ProductName":"LG PF50KA Full HD LED Smart Home Theater Projector with Built-In Battery",
+            "ActualPrice":"61128",
+            "Price":"61128",
+            "Rating":"4.2",
+            "Stock":"44",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Bring Full HD clarity anywhere: With its built-in battery, the PF50KA delivers up to two-and-a-half hours of video at up to 100-inches. Find premium content fast with LG Smart TV platform built-in. Screen Share adds cordless convenience for compatible smartphones and tablets, in addition to Bluetooth connectivity for speakers and headphones.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Full HD (1920 x 1080) Resolution at up to 100'' screen Size"
+                        },
+                        {
+                            "list":"Built in battery (up to 2.5 hours battery life)"
+                        },
+                        {
+                            "list":"LG Smart TV enabled"
+                        },
+                        {
+                            "list":"Wireless screen Share connection"
+                        },
+                        {
+                            "list":"USB Type-C connection and Bluetooth sound Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/projector/projector-four.jpg",
+            "ProductImageURL":"/image/product/projector/projector-four-product.jpg",
+            "BrandName":"LG",
+            "BrandCode":"SKU: LG--917075-PF1-DE",
+            "ProductName":"LG PF1500W LED Home Theater Projector with Smart TV and Magic Remote",
+            "ActualPrice":"71712",
+            "Price":"71712",
+            "Rating":"4.7",
+            "Stock":"30",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Experience LG Smart TV with the included Magic Remote on the PF1500W Smart Home Theatre projector. Other features include Bluetooth sound out, up to 1400 lumens, 30,000 hours of lamp life and USB connectivity. LED Projector with Smart TV and Magic RemotePortable LED Projector with Smart TV And Magic Remote.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Full HD (1920 X 1080)"
+                        },
+                        {
+                            "list":"LG Smart TV compatible (w/ Magic Remote)"
+                        },
+                        {
+                            "list":"Brightness 1400 (ANSI)"
+                        },
+                        {
+                            "list":"Bluetooth Sound Out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/projector/projector-five.jpg",
+            "ProductImageURL":"/image/product/projector/projector-five-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-599212-VPL-DE",
+            "ProductName":"Sony VPLHW45ES 1080p 3D SXRD Home Theater Gaming Projector",
+            "ActualPrice":"143856",
+            "Price":"143856",
+            "Rating":"4.1",
+            "Stock":"21",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Create a spectacular cinematic experience in your own home. The VPL-HW45ES is packed with technology developed for our professional Digital Cinema projectors, including SXRD panels and Advanced Reality Creation upscaling technology for fabulously detailed Full HD images. With 1,800 lumen brightness and a compact design, it’s the perfect choice for unforgettable home entertainment.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Full HD picture quality"
+                        },
+                        {
+                            "list":"1800 lm brightness"
+                        },
+                        {
+                            "list":"Advanced Reality Creation"
+                        },
+                        {
+                            "list":"Smooth action with Motionflow technology"
+                        },
+                        {
+                            "list":"Display Resolution: computer signal input : Maximum display resolution: 1920 x 1080 dots (HDMI Input only) / Video signal input : 480/60p, 576/50p, 720/60p, 720/50p, 1080/60i, 1080/50i, The following items are available for HDMI input only. 1080/60p, 1080/50p, 1080/24p"
+                        },
+                        {
+                            "list":"Weight: approx. 9 kg / 20 lb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/projector/projector-six.jpg",
+            "ProductImageURL":"/image/product/projector/projector-six-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-355509-ULT-DE",
+            "ProductName":"Sony Ultra-Short Throw 4K HDR Home Theatre Projector (VPLVZ1000ES)",
+            "ActualPrice":"1799856",
+            "Price":"1799856",
+            "Rating":"4.1",
+            "Stock":"67",
+            "New":"Yes",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Go from living space, to theatre and back again with the amazing flexibility of this ultra-short throw projector that lets you experience over 100' of 4K HDR picture quality on any wall. With no limits on the design or layout of your home, it’s never been easier to live the dream of having a large screen display when and where you want it.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Native 4K resolution (4096 x 2016)"
+                        },
+                        {
+                            "list":"High brightness 2500 lumens laser projection"
+                        },
+                        {
+                            "list":"Triluminos Display for rich color"
+                        },
+                        {
+                            "list":"Advanced Reality Creation for upscaling SD/HD sources"
+                        },
+                        {
+                            "list":"High Dynamic Range for more realistic video"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Sound Bars":[
+        {
+            "imageURL":"/image/product/soundbar/sound-one.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-one-product.jpg",
+            "BrandName":"LG",
+            "BrandCode":"SKU: LG--121993-SJ7-DE",
+            "ProductName":"LG SJ7 Sound Bar Flex Dual Speaker System with Wireless Subwoofer",
+            "ActualPrice":"35712",
+            "Price":"35712",
+            "Rating":"4.6",
+            "Stock":"44",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Endless entertainment from a versatile dual-speaker design: The two main speakers can be placed in front of the TV, or to the left/right vertically, or in front of and behind the listener for an even more cinematic experience. The LG Sound Bar Flex provides entertainment from a versatile dual-speaker design: The two main speakers can be placed in front of the TV, or to the left/right vertically, or in front of and behind the listener for an even more cinematic experience. Both speakers are Bluetooth, and the right unit has a built-in battery, so it can work independently just about anywhere.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Flexible Design - Versatile Soundbar Setup Options"
+                        },
+                        {
+                            "list":"Rear Surround Sound Setup Option"
+                        },
+                        {
+                            "list":"One Speaker Is Bluetooth Portable Speaker"
+                        },
+                        {
+                            "list":"Wireless Subwoofer"
+                        },
+                        {
+                            "list":"Bluetooth Connectivity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/soundbar/sound-two.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-two-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-756695-HT--DE",
+            "ProductName":"Sony HT-Z9F 3.1-Ch Dolby Atmos (or) DTS:X Sound Bar with Wi-Fi (or) Bluetooth",
+            "ActualPrice":"64656",
+            "Price":"57456",
+            "Rating":"4.3",
+            "Stock":"29",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Feel the thrill of movie audio with this stunning 3.1ch Dolby Atmos/DTS:X soundbar, and our new Vertical Surround Engine in a soundbar that fits perfectly into your home. Hear sound from all directions with max 7.1.2 surround sound.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"3.1ch Dolby Atmos/DTS:X and Vertical Surround Engine"
+                        },
+                        {
+                            "list":"Five sound modes for enhanced movies, music, gaming, news and sports"
+                        },
+                        {
+                            "list":"4K HDR-compatible"
+                        },
+                        {
+                            "list":"High-Resolution Audio capable"
+                        },
+                        {
+                            "list":"Wi-Fi®: wirelessly connect to online music streaming with built-in Wi-Fi."
+                        },
+                        {
+                            "list":"Bluetooth® connection: stream music wirelessly with Bluetooth® technology."
+                        },
+                        {
+                            "list":"Enhance the detail with DSEE HX™: DSEE HX™upscales your existing music to near high-resolution sound quality."
+                        },
+                        {
+                            "list":"Connect with Alexa: connect your Alexa enabled devices for seamless hands-free control of HT-Z9F. With Alexa, you can enjoy music services by voice and control the volume."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/soundbar/sound-three.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-three-product.jpg",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-291701-KAR-BL",
+            "ProductName":"Harman Kardon Omni Bar+ Wireless HD Sound Bar",
+            "ActualPrice":"64728",
+            "Price":"64728",
+            "Rating":"4.1",
+            "Stock":"19",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Harman Kardon Omni Bar+ needs just one cable to connect to your HD TV and lets you easily set up a wireless HD music system in your home. It also adds access to music streaming services such as Spotify Connect and Chromecast built-in. With Dolby Digital and the included Sub Woofer you can have new home theater and because it can connect to any Harman Kardon Omni+ speakers, you can easily set up a whole home wireless music system.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Power consumption in sleep mode: < 3.0 Watts"
+                        },
+                        {
+                            "list":"Soundbar amplifier power: 30W x 4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/soundbar/sound-four.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-four-product.jpg",
+            "BrandName":"YAMAHA",
+            "BrandCode":"SKU: YAM-171708-DE",
+            "ProductName":"Yamaha YSP-5600 MusicCast Sound Bar with Dolby Atmos and DTS:X",
+            "ActualPrice":"115128",
+            "Price":"115128",
+            "Rating":"4.1",
+            "Stock":"7",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Take your TV sound to a new dimension. The YSP-5600 employs a remarkable 46 speaker drivers and Yamaha exclusive Digital Sound Projector technology to deliver Dolby Atmos and DTS:X* multi-dimensional listening experiences. It can also provide wireless multiroom audio playback using your existing Wi-Fi network by adding other MusicCast speakers, sound bars or AV receivers in other rooms.",
+                    "SubHeading":"General Specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"World's first sound bar with 7.1.2-channel multidimensional sound"
+                        },
+                        {
+                            "list":"HDMI® inputs with 4K Ultra HD pass-through and HDCP 2.2"
+                        },
+                        {
+                            "list":"Versatile connectivity – Wi-Fi, Bluetooth, AirPlay and Spotify Connect"
+                        },
+                        {
+                            "list":"MusicCast provides access to Pandora®, Napster, TIDAL, Deezer, Spotify, SiriusXM Internet Radio and more"
+                        },
+                        {
+                            "list":"Subwoofer and wireless transmission kit sold separately"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/soundbar/sound-five.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-five-product.jpg",
+            "BrandName":"LG",
+            "BrandCode":"SKU: LG--250195-SJ8-DE",
+            "ProductName":"LG SJ8 4.1-Ch High Resolution Audio Sound Bar",
+            "ActualPrice":"35712",
+            "Price":"35712",
+            "Rating":"4.1",
+            "Stock":"8",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The 1.5” ultra-slim SJ8 packs a host of premium audio and video features. Enjoy CTA-certified, high-resolution music plus 24-bit up sampling with a Hi-Fi DAC, with Bluetooth and 4K pass-through. And it integrates elegantly beneath LG OLED TVs with the optional TV Mount Kit.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"CTA-Certified High Resolution Audio"
+                        },
+                        {
+                            "list":"24-bit Up sampling"
+                        },
+                        {
+                            "list":"1.5” Ultra Slim Design"
+                        },
+                        {
+                            "list":"Spotify Connect"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/soundbar/sound-six.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-six-product.jpg",
+            "BrandName":"HARMAN KARDON",
+            "BrandCode":"SKU: HAR-187120-KAR-BL",
+            "ProductName":"Harman Kardon Citation Bar",
+            "ActualPrice":"71999",
+            "Price":"71999",
+            "Rating":"4.6",
+            "Stock":"14",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"Black",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Black",
+                    "DisplayColor":"black",
+                    "ProductImageURL":"/image/product/soundbar/sound-six-product.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"71999",
+                            "Price":"71999",
+                            "BrandCode":"SKU: HAR-187120-KAR-BL",
+                            "Stock":"14"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Grey",
+                    "DisplayColor":"grey",
+                    "ProductImageURL":"/image/product/soundbar/sound-six-product-grey.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"71999",
+                            "Price":"71999",
+                            "BrandCode":"SKU: HAR-803597-KAR-GR",
+                            "Stock":"9"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The Harman Kardon Citation Bar is a next generation smart soundbar for movies and music. Easy to use with its full-color LCD touch screen, Citation Bar blends innovation in home audio with attention to detail in design, allowing for sophisticated looks and superb bass without a subwoofer. Music lovers will love access to over 300 music services and high-definition streaming through Chromecast built-in, while movie lovers enjoy their all wireless 5.1 home theater system with Citation Surround and Citation Sub. The Google Assistant brings convenient voice control to your Citation Bar when listening to music for hands-free help around the home. Get answers, play music, organize your day, control your smart home, enjoy your entertainment and more, just with your voice!",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Citation Bar"
+                        },
+                        {
+                            "list":"Quick-start guide"
+                        },
+                        {
+                            "list":"Warranty sheet"
+                        },
+                        {
+                            "list":"Power cable (1.8m)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Sales":[
+        {
+            "imageURL":"/image/product/soundbar/sound-two.jpg",
+            "ProductImageURL":"/image/product/soundbar/sound-two-product.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-756695-HT--DE",
+            "ProductName":"Sony HT-Z9F 3.1-Ch Dolby Atmos (or) DTS:X Sound Bar with Wi-Fi (or) Bluetooth",
+            "ActualPrice":"64656",
+            "Price":"57456",
+            "Rating":"4.3",
+            "Stock":"29",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Feel the thrill of movie audio with this stunning 3.1ch Dolby Atmos/DTS:X soundbar, and our new Vertical Surround Engine in a soundbar that fits perfectly into your home. Hear sound from all directions with max 7.1.2 surround sound.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"3.1ch Dolby Atmos/DTS:X and Vertical Surround Engine"
+                        },
+                        {
+                            "list":"Five sound modes for enhanced movies, music, gaming, news and sports"
+                        },
+                        {
+                            "list":"4K HDR-compatible"
+                        },
+                        {
+                            "list":"High-Resolution Audio capable"
+                        },
+                        {
+                            "list":"Wi-Fi®: wirelessly connect to online music streaming with built-in Wi-Fi."
+                        },
+                        {
+                            "list":"Bluetooth® connection: stream music wirelessly with Bluetooth® technology."
+                        },
+                        {
+                            "list":"Enhance the detail with DSEE HX™: DSEE HX™upscales your existing music to near high-resolution sound quality."
+                        },
+                        {
+                            "list":"Connect with Alexa: connect your Alexa enabled devices for seamless hands-free control of HT-Z9F. With Alexa, you can enjoy music services by voice and control the volume."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/headphone/head_five.jpg",
+            "ProductImageURL":"/image/product/headphone/head_product_five.jpg",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-544136-XB950-BL",
+            "ProductName":"Sony XB-950B1 Extra Bass Wireless Headphones with App Control",
+            "ActualPrice":"12816",
+            "Price":"11999",
+            "Rating":"4.4",
+            "Stock":"9",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Feel the freedom and love the bass with these Bluetooth headphones with EXTRA BASS that deliver powerful, clear sound and up to 18 hours of battery life. Find the perfect sound for each song with the Sony Headphones Connect app, while you enjoy broad frequency response for the ultimate listening experience. Even take hands-free calls with the built-in mic. Freedom has never sounded better.",
+                    "SubHeading":"Specifications and features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Explore your favorite tracks in new depth with EXTRA BASS™ and listen wirelessly over Bluetooth® wireless technology for up to 18 hours"
+                        },
+                        {
+                            "list":"EXTRA BASS™ for deep, punchy sound High-quality audio with Bluetooth® wireless technology"
+                        },
+                        {
+                            "list":"Optimize your sound settings with Sony | Headphones Connect app"
+                        },
+                        {
+                            "list":"18 hours of battery life"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-one.webp",
+            "ProductImageURL":"/image/product/tv/tv-one-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-695219-XBR-55",
+            "ProductName":"Sony XBR-950G BRAVIA 4K HDR Ultra HD TV",
+            "ActualPrice":"111999",
+            "Price":"100599",
+            "Rating":"4.2",
+            "Stock":"21",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"Yes",
+            "ColorAvailable":"No",
+            "DefaultSize":"55",
+            "ProductListName":"TV Size",
+            "ProductList":[
+                {
+                    "Size":"55",
+                    "SizeName":"Size",
+                    "ActualPrice":"111999",
+                    "Price":"100599",
+                    "BrandCode":"SKU: SON-695219-XBR-55",
+                    "Stock":"21"
+                },
+                {
+                    "Size":"65",
+                    "SizeName":"Size",
+                    "ActualPrice":"121999",
+                    "Price":"121999",
+                    "BrandCode":"SKU: SON-985594-XBR-65",
+                    "Stock":"8"
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Unlock the world of ultimate colors and contrast with the X950G 4K HDR TV from Sony. Incredibly clear 4K HDR picture quality is powered by the Picture Processor X1 Ultimate, and content has never been brighter than with Full Array Local Dimming & Boosting. X-Motion Clarity technology makes action scenes look like real life.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"4K High Dynamic Range"
+                        },
+                        {
+                            "list":"Picture Processor X1™ Ultimate"
+                        },
+                        {
+                            "list":"Acoustic Multi-Audio™"
+                        },
+                        {
+                            "list":"Dimensions: TV with stand - 48 3/8 x 30 5/8 x 10 7/8 inch; without stand - 48 3/8 x 28 x 2 3/4 inch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/tv/tv-three.webp",
+            "ProductImageURL":"/image/product/tv/tv-three-product.webp",
+            "BrandName":"SONY",
+            "BrandCode":"SKU: SON-969666-XBR75X850F-DE",
+            "ProductName":"Sony XBR-75X850F 75-Inch 4K Ultra HD Smart LED TV",
+            "ActualPrice":"143859",
+            "Price":"143199",
+            "Rating":"4.8",
+            "Stock":"31",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Armed with a stunning array of technologies like the X1 Extreme Processor, X-Tended Dynamic Range PRO, and X-Motion Clarity, the Sony X850F 4K HDR LED displays an awe-inspiring 4K HDR picture with stunning clarity, contrast, and color. It’s more than just a LED - It’s what 4K HDR LEDs aspire to be.",
+                    "SubHeading":"General specifications:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"4K High Dynamic Range"
+                        },
+                        {
+                            "list":"4K HDR Processor X1™"
+                        },
+                        {
+                            "list":"4K X-Reality™ PRO"
+                        },
+                        {
+                            "list":"Android TV™"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/bluetooth/blue-three.webp",
+            "ProductImageURL":"/image/product/bluetooth/blue-three-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-429225-TUN-BL",
+            "ProductName":"JBL Tune 205BT Wireless Earbuds",
+            "ActualPrice":"2299",
+            "Price":"1999",
+            "Rating":"4.5",
+            "Stock":"47",
+            "New":"No",
+            "OurSelection":"Yes",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"Yes",
+            "ColorTagName":"Color",
+            "ColorDefaultName":"black",
+            "ColorImage":[
+                {
+                    "StateName":"colorName",
+                    "ColorName":"black",
+                    "DisplayColor":"black",
+                    "ProductImageURL":"/image/product/bluetooth/blue-three-product.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2299",
+                            "Price":"1999",
+                            "BrandCode":"SKU: JBL-429225-TUN-BL",
+                            "Stock":"47"
+                        }
+                    ]
+                },
+                {
+                    "StateName":"colorName",
+                    "ColorName":"Champagne Gold",
+                    "DisplayColor":"#E8D4B4",
+                    "ProductImageURL":"/image/product/bluetooth/blue-three-product-gold.jpg",
+                    "ProductList":[
+                        {
+                            "ActualPrice":"2299",
+                            "Price":"1999",
+                            "BrandCode":"SKU: JBL-138532-TUN-CH",
+                            "Stock":"21"
+                        }
+                    ]
+                }
+            ],
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"Introducing JBL Tune 205BT wireless earbud headphones with JBL Pure Bass Sound. Thanks to the 6-hour battery life they can wirelessly stream JBL Pure Bass sound and provide hands-free call management. Inside the premium housing is a pair of 12.5 mm drivers which will punch out some serious bass, while the soft, ergonomically shaped earbuds ensure the listening experience remains comfortable for long-listening hours. In addition, a single-button remote lets you control music playback, as well as answer calls on the fly with the built-in microphone, making the JBL Tune 205BT your everyday companion for work, at home and on the go.",
+                    "SubHeading":"Package contains:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Pair of Tune 205BT headphones"
+                        },
+                        {
+                            "list":"Charging cable"
+                        },
+                        {
+                            "list":"Safety Sheet"
+                        },
+                        {
+                            "list":"Quick Start Guide"
+                        },
+                        {
+                            "list":"Warranty Card"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "imageURL":"/image/product/portable/portable-six.jpg",
+            "ProductImageURL":"/image/product/portable/portable-six-product.jpg",
+            "BrandName":"JBL",
+            "BrandCode":"SKU: JBL-729961-LIN-BL",
+            "ProductName":"JBL Link 20 Voice Activated Portable Speaker",
+            "ActualPrice":"14328",
+            "Price":"7128",
+            "Rating":"4.5",
+            "Stock":"24",
+            "New":"No",
+            "OurSelection":"No",
+            "ProductListAvailable":"No",
+            "ColorAvailable":"No",
+            "Description":[
+                {
+                    "Heading":"Description",
+                    "MainPara":"The JBL Link 20 is a voice activated portable speaker with Wi-Fi and Bluetooth® enabled that delivers rich stereo sound. It has the Google Assistant built-in. It’s your own personal Google. Always ready to help. You can ask it questions. And tell it to do things. The more you use it, the more useful it gets. Just start with “Ok Google” – a simple voice request triggers your JBL Link 20 to play music, podcasts or radio from services like Google Play Music, Spotify, Pandora and more. This compact speaker is powered by a 6000mAh rechargeable Li-ion battery that offers 10 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials, JBL Link 20 is ready to take the party everywhere. And with the Chromecast built-in, you can instantly start streaming to JBL Link 20 from your favorite music apps.",
+                    "SubHeading":"Features:",
+                    "ListAvailable":"Yes",
+                    "List":[
+                        {
+                            "list":"Chromecast built-in"
+                        },
+                        {
+                            "list":"24 bit/96kHz High quality sound, powered by the cloud"
+                        },
+                        {
+                            "list":"Multi-room playback across speakers that have Chromecast built-in"
+                        },
+                        {
+                            "list":"Wireless Bluetooth® streaming"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

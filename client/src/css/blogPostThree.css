@@ -1,0 +1,120 @@
+.blog-three-main
+{
+    padding-left: 0px;
+    padding-right: 20px;
+    margin-bottom: 40px;
+    background-color: #f3f5f6;
+}
+.blog-three-heading
+{
+    padding-top : 30px;
+    /* font-family: 'Nunito', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    color : #1e2d7d;
+    font-weight: 600;
+    font-size: 25px;
+    word-spacing: 2px;
+    letter-spacing: 1.6px;
+}
+.blog-three-date-display
+{
+    display: flex;
+    padding-top: 13px;
+}
+.blog-three-author
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : rgb(99, 96, 96);
+}
+.blog-three-author-date
+{
+    padding-left: 10px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color : rgb(99, 96, 96);
+}
+.blog-three-image
+{
+    margin-top : 40px;
+    width: 100%;
+    border-radius: 3px;
+}
+.blog-three-para
+{
+    padding-top: 40px;
+    letter-spacing: 0.5px;
+    word-spacing: 4px;
+    line-height: 210%;
+    /* font-family: 'Nunito', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color : rgb(99, 96, 96);
+}
+.blog-three-one-para
+{
+    padding-top: 25px;
+    letter-spacing: 0.5px;
+    word-spacing: 4px;
+    line-height: 210%;
+    /* font-family: 'Nunito', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color : rgb(99, 96, 96);
+}
+.blog-three-highlight
+{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    height: 30px;
+    padding-top: 3px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color : rgb(99, 96, 96);
+    border-left: 5px solid grey;
+}
+.blog-three-social-link-heading
+{
+    padding-top: 5px;
+    color : rgb(99, 96, 96);
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.blog-three-social-link
+{
+    width : 100%;
+    margin-top : 60px;
+    display: flex;
+}
+.blog-three-social-link a
+{
+    margin-left: 13px;
+    border-radius: 50%;
+    padding-left: 6.8px;
+    padding-top: 0px;
+    height : 31px;
+    width : 32px;
+    background-color: rgb(143, 140, 140);
+    font-size: 18px;
+    color : rgb(255, 255, 255);
+}
+.blog-three-social-link a:hover
+{
+    background-color: #1e2d7d;
+    text-decoration: none;
+    transition: all 0.7s;
+    -webkit-transition: all 0.7s;
+    -moz-transition: all 0.7s;
+}
+.blog-three-hr
+{
+    margin-top : 40px;
+}
+
+@media(max-width:440px)
+{
+    .blog-three-one-para{text-align: justify}
+    .blog-three-para{text-align: justify}
+    .blog-three-main{padding-right: 0px}
+}

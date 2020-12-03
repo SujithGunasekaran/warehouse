@@ -1,0 +1,155 @@
+.carsole-slide1-image
+{
+    filter: brightness(60%);
+    width : 100%;
+}
+.carsole-slide1-heading
+{
+    margin-top: -285px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color : white;
+    font-weight: bold !important;
+}
+.carsole-slide1-para
+{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color : rgb(254, 253, 255);
+    font-weight: bold !important;
+}
+.carsole-slide1-btn
+{
+    margin-top : 10px;
+    border : none;
+    background-color: #00badb;
+    border-radius: 6px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    width : 200px;
+    height : 40px;
+    padding-top:0px;
+    color : white;
+}
+.carsole-slide1-btn:hover
+{
+    cursor: pointer;
+}
+.carsole-slide1-btn:focus
+{
+    outline: none;
+}
+
+/* Slide 2 css */
+
+.carsole-slide2-image
+{
+    filter: brightness(60%);
+    width : 100%;
+}
+.carsole-slide2-heading
+{
+    margin-top: -285px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color : rgb(255, 255, 255);
+    font-weight: bold !important;
+}
+.carsole-slide2-para
+{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color : rgb(255, 253, 253);
+    font-weight: bold !important;
+}
+.carsole-slide2-btn
+{
+    margin-top : 10px;
+    border : none;
+    background-color: #00badb;
+    border-radius: 6px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    width : 200px;
+    height : 40px;
+    padding-top:0px;
+    color : white;
+}
+.carsole-slide2-btn:hover
+{
+    cursor: pointer;
+}
+.carsole-slide2-btn:focus
+{
+    outline: none;
+}
+
+/* Slide 3 css */
+
+.carsole-slide3-image
+{
+    filter: brightness(60%);
+    width : 100%;
+}
+.carsole-slide3-heading
+{
+    margin-top: -265px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color : rgb(255, 255, 255);
+    font-weight: bold !important;
+}
+.carsole-slide3-para
+{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    color : rgb(255, 254, 254);
+    font-weight: bold !important;
+}
+.carsole-slide3-btn
+{
+    margin-top : 18px;
+    border : none;
+    background-color: #00badb;
+    border-radius: 6px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    width : 200px;
+    height : 40px;
+    padding-top:0px;
+    color : white;
+}
+.carsole-slide3-btn:hover
+{
+    cursor: pointer;
+}
+.carsole-slide3-btn:focus
+{
+    outline: none;
+}
+@media(max-width : 440px)
+{
+    .carousel{display: none;}
+}
+@media(max-width : 700px)
+{
+    .carousel{display: none;}
+}
+@media(max-width : 780px)
+{
+    .carsole-slide1-heading{margin-top : -30px !important}
+    .carsole-slide2-heading{margin-top : -30px !important}
+    .carsole-slide3-heading{margin-top : -30px !important}
+}
+@media(max-width : 1080px)
+{
+    .carsole-slide1-heading{margin-top : -200px !important}
+    .carsole-slide2-heading{margin-top : -200px !important}
+    .carsole-slide3-heading{margin-top : -200px !important}
+}

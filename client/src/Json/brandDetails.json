@@ -1,0 +1,121 @@
+{
+    "jbl":[
+        {
+            "imageURL":"/image/brand/brand_jbl.jpg",
+            "BrandName":"JBL",
+            "BrandInformation":"JBL is an American company that manufactures loudspeakers. There are two independent divisions within the company – JBL Consumer and JBL Professional. The former produces audio equipment for the consumer home market while the latter produces professional equipment for the studio, installed sound, tour sound, portable sound (production and DJ), and cinema markets."
+        }
+    ],
+    "lg":[
+        {
+            "imageURL":"/image/brand/brand_lg.jpg",
+            "BrandName":"LG",
+            "BrandInformation":"LG Electronics Inc. is a South Korean multinational electronics company headquartered in Yeouido-dong, Seoul, South Korea. LG comprises four business units: Home Entertainment, Mobile Communications, Home Appliances & Air Solutions, and Vehicle Components. Since 2008, LG Electronics remains the world's second-largest LCD television manufacturer."
+        }
+    ],
+    "pionner":[
+        {
+            "imageURL":"/image/brand/brand_pioneer.jpg",
+            "BrandName":"Pionner",
+            "BrandInformation":"Pioneer is a Japanese multinational corporation based in Tokyo, Japan, that specializes in digital entertainment products. The company was founded by Nozomu Matsumoto in 1938 in Tokyo as a radio and speaker repair shop. Pioneer played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player, the first detachable face car stereo, Supertuner technology, DVD and DVD recording, plasma display, and Organic LED display (OLED)."
+        }
+    ],
+    "samsung":[
+        {
+            "imageURL":"/image/brand/brand_samsung.jpg",
+            "BrandName":"Samsung",
+            "BrandInformation":"Samsung Electronics inspires the world and shapes the future with transformative ideas and technologies that give people the power to discover new experiences. With a constant focus on innovation and discovery, we keep redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions."
+        }
+    ],
+    "sony":[
+        {
+            "imageURL":"/image/brand/brand_sony.jpg",
+            "BrandName":"Sony",
+            "BrandInformation":"Sony is a Japanese multinational conglomerate corporation. Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services. Sony is one of the leading manufacturers of electronic products for the consumer and professional markets, and a leading player in the film and television entertainment industry."
+        }
+    ],
+    "yamaha":[
+        {
+            "imageURL":"/image/brand/brand_yamaha.jpg",
+            "BrandName":"Yamaha",
+            "BrandInformation":"Yamaha is a Japanese multinational corporation and conglomerate with a very wide range of products and services, predominantly musical instruments, electronics and power sports equipment. It is the world's largest piano manufacturing company."
+        }
+    ],
+    "denon":[
+        {
+            "imageURL":"/image/brand/brand_denon.jpg",
+            "BrandName":"Denon",
+            "BrandInformation":"Denon is a Japanese electronics company that was involved in the early stages of development of digital audio technology, while specializing in the manufacture of high-fidelity professional and consumer audio equipment."
+        }
+    ],
+    "cambridge":[
+        {
+            "imageURL":"/image/brand/brand_cambridge.jpg",
+            "BrandName":"Cambridge",
+            "BrandInformation":"Cambridge Audio is a British manufacturer of high-end audio equipment. As the name suggests, it has its origins in Cambridge, England where in the early 1960s a group of young technology graduates established a high technology R&D and prototyping business: Cambridge Consultants."
+        }
+    ],
+    "devialet":[
+        {
+            "imageURL":"/image/brand/brand_devialet.jpg",
+            "BrandName":"Devialet",
+            "BrandInformation":"In the world of sound, there is a striking paradox: while Music has never been so accessible in terms of volume, the quality of the sound itself, and the way technologies manage to restitute it, remains questionable. Devialet was born in 2007, as a response to that very issue. Our goal: making it possible for a larger number of people to listen to perfectly restituted sound using everyday sound devices. Simple enough, come to think of it!"
+        }
+    ],
+    "audio":[
+        {
+            "imageURL":"/image/brand/brand_audio.jpg",
+            "BrandName":"Audio",
+            "BrandInformation":"Established in 1962, Audio-Technica is a worldwide group of companies devoted to the design, manufacture, marketing and distribution of problem-solving audio equipment. Initially known for state-of-the-art phonograph cartridges, A-T now creates high-performance microphones, headphones, wireless systems, mixers and electronic products for home and professional use."
+        }
+    ],
+    "akg":[
+        {
+            "imageURL":"/image/brand/brand_akg.jpg",
+            "BrandName":"AKG",
+            "BrandInformation":"AKG, founded in Vienna by Dr. Rudolf Goerike and Ernst Pless, soon became one of the biggest players in the world of sound. Today AKG is synonymous with good sound, stands for passion in music providing the highest quality and ongoing innovation in the world of music."
+        }
+    ],
+    "sennheiser":[
+        {
+            "imageURL":"/image/brand/brand-sen.jpg",
+            "BrandName":"sennheiser",
+            "BrandInformation":"Sennheiser is a German privately held audio company specializing in the design and production of a wide range of high fidelity products, including microphones, headphones, telephone accessories and aviation headsets for personal, professional and business applications."
+        }
+    ],
+    "shure":[
+        {
+            "imageURL":"/image/brand/brand_shure.jpg",
+            "BrandName":"Shure",
+            "BrandInformation":"With a history of innovation that began in 1925, Shure has turned a passion for making great microphones and audio electronics into an obsession. Shure continues to set the worldwide industry standard for superior, reliable products."
+        }
+    ],
+    "marantz":[
+        {
+            "imageURL":"/image/brand/brand_marantz.jpg",
+            "BrandName":"Marantz",
+            "BrandInformation":"We know that true hi-fi is about being able to reproduce the magic of a performance. It’s about experiencing music just as the artist intended, even in the cinema. It is music that delivers the ecstasy and agony of a film’s story. To Marantz, perfect specifications and technical accomplishment count for nothing unless a product can unlock the power, the excitement and the emotion of music."
+        }
+    ],
+    "harmanKardon":[
+        {
+            "imageURL":"/image/brand/brand_harmanAndKardon.jpg",
+            "BrandName":"Harman Kardon",
+            "BrandInformation":"Harman Kardon (styled as harman / kardon) is a division of Stamford-based Harman International Industries, a subsidiary of South Korean firm Samsung Electronics, and manufactures home and car audio equipment. It was its original division, founded in 1953 by Sidney Harman and Bernard Kardon."
+        }
+    ],
+    "masterdynamic":[
+        {
+            "imageURL":"/image/brand/brand_masterAndDynamic.jpg",
+            "BrandName":"Master & Dynamic",
+            "BrandInformation":"Master & Dynamic is a New York-based audio company. Founded in 2013, Master & Dynamic designs and manufactures headphones, earphones, and audio accessories. Master & Dynamic is geared towards the creative community. They have collaborated with designers and artists and they sponsor the arts program at Harlem Village Academies, a public charter school in Harlem."
+        }
+    ],
+    "focal":[
+        {
+            "imageURL":"/image/brand/brand_focal.jpg",
+            "BrandName":"Focal",
+            "BrandInformation":"Focal has been creating benchmark acoustic equipment since 1979 for various high fidelity markets such as home audio loudspeakers, headphones, car speaker drivers and monitoring loudspeakers. Core businesses: speaker drivers and high-fidelity loudspeakers. Their historic core values are based on the union of technology, mechanics, noble materials and design. We are constantly pushing the limits of sound to offer you a truly unique listening experience."
+        }
+    ]
+}

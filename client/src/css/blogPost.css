@@ -1,0 +1,114 @@
+.blogpost-main
+{
+    margin-top: 45px;
+}
+.blogpost-main-heading
+{
+    padding-top: 40px;
+    /* font-family: 'Nunito', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.6px;
+    word-spacing: 1px;
+    font-weight: bold;
+    color : #1e2d7d;
+    font-size: 21px;
+}
+.blogpost-container
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width : 100%;
+    transition: all 0.7s ease-in-out;
+}
+.blogpost-container a:hover .blogpost-image
+{
+    transform: scale(1.02);
+}
+.blogpost-container a:hover
+{
+    text-decoration: none;
+}
+.blogpost-container a:hover .blogpost-image-name
+{
+    color : #00badb;
+    transition: all 0.7s;
+    -webkit-transition: all 0.7s;
+    -moz-transition: all 0.7s;
+}
+.blogpost-image
+{
+    margin-top: 20px;
+    width : 100%;
+    height : 250px;
+    border-radius: 4px;
+    transition: all 0.7s ease-in-out;
+}
+.blogpost-image-name
+{
+    padding-top: 20px;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 18px;
+}
+.blogpost-info-display
+{
+    display: flex;
+    padding-top : 18px;
+}
+.blogpost-info-author
+{
+    color : rgb(121, 117, 117);
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.blogpost-info-date
+{
+    padding-left: 10px;
+    color : rgb(121, 117, 117);
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+
+/* Small size container css */
+
+.blogpost-small-container
+{
+    width : 100%;
+    margin-top: 40px;
+}
+.blogpost-small-container a:hover
+{
+    text-decoration: none;
+}
+.blogpost-small-container-display
+{
+    display: flex;
+    flex-direction: row;
+}
+.blogpost-small-image
+{
+    width : 80px;
+    height : 80px;
+    border-radius: 3px;
+}
+.blogpost-small-info-display
+{
+    display: flex;
+    flex-direction: column;
+}
+.blogpost-small-heading
+{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Nunito', sans-serif;
+    color : #1e2d7d;
+    font-size: 14px;
+}
+.blogpost-small-date
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    color : rgb(121, 117, 117);
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+}

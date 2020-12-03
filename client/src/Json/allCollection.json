@@ -1,0 +1,56 @@
+{
+    "AllCollection":[
+        {
+            "imageUrl":"/image/All_collections/collection_av.webp",
+            "Name":"AV Receivers"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_accessories.webp",
+            "Name":"Accessories"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_tv.webp",
+            "Name":"All TVs"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_amp.webp",
+            "Name":"Amplifier"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_audio.webp",
+            "Name":"Audio"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_bluetooth.webp",
+            "Name":"Bluetooth"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_bud.webp",
+            "Name":"Ear Buds"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_headphones.webp",
+            "Name":"Headphones"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_new_arrivel.webp",
+            "Name":"New Arrivals"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_portable.webp",
+            "Name":"Portable"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_projector.webp",
+            "Name":"Projectors"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_soundbar.jpg",
+            "Name":"Sound Bars"
+        },
+        {
+            "imageUrl":"/image/All_collections/collection_sales.webp",
+            "Name":"Sales"
+        }
+    ]
+}

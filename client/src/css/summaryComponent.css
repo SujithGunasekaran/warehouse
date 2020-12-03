@@ -1,0 +1,250 @@
+.summary-component-main
+{
+    margin: 30px 0px;
+    padding: 30px 15px;
+    background-color: white;
+    /* border-radius: 5px; */
+    border : 1px solid #e1e3e4;
+    animation: fadeInAnimation ease 1s; 
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
+.summary-component-heading
+{
+    padding-top: 15px;
+    font-family: 'Nunito', sans-serif;
+    color : #333232;
+    font-size: 20px;
+    word-spacing: 2px;
+}
+.summary-component-tag-display
+{
+    display : flex;
+    padding-bottom: 21px;
+}
+.summary-component-tag-name
+{
+    color: #1e2d7d;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    width: 60px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+}
+.summary-component-tag-colon
+{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: bold;
+    color: #1e2d7d;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.4px;
+    word-spacing: 2px;
+}
+.summary-component-tag-name-value
+{
+    padding-left: 3px;
+    color: #1e2d7d;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px; 
+}
+
+/* order summary css */
+
+.summary-component-order-container
+{
+    margin : 20px 0px;
+    width : 100%;
+    background-color: white;
+    border : 1px solid rgb(221, 219, 219);
+}
+.summary-component-main-display
+{
+    display : flex;
+}
+.summary-component-order-image
+{
+    width : 200px;
+    height : 200px;
+}
+
+@media(max-width:440px)
+{
+    .summary-component-order-image{
+        margin-top: 65px;
+        width : 100px;
+        height : 100px;
+    }
+}
+
+.summary-component-info-display
+{
+    display : flex;
+    flex-direction: column;
+    padding : 15px 10px;
+}
+.summary-component-info-name
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.summary-component-brand-display
+{
+    display : flex;
+    padding: 15px 0px;
+}
+.summary-component-brand-name
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color : #00badb;
+}
+.summary-component-brand-code
+{
+    padding-left: 13px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    color : rgb(99, 96, 96);
+}
+.summary-component-rating-display
+{
+    display: flex;
+}
+.summary-component-rating
+{
+    margin-left: -4px;
+    margin-top: 5px;
+}
+.summary-component-rating-name
+{
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: rgb(222, 228, 230);
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    width : 32px;
+    height: 18px;
+    border-radius: 5px;
+    color: #1e2d7d;
+    text-align: center;
+}
+.summary-component-price-display
+{
+    display: flex;
+    padding-top: 18px;
+}
+.summary-component-price-name-display
+{
+    display: flex;
+}
+.summary-component-price-tag
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    color : #1e2d7d;
+}
+.summary-component-price-name
+{
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #00badb;
+}
+.summary-component-price-strike
+{
+    padding-left: 15px;
+    padding-top: 1px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #677279;
+}
+.summary-component-save-price
+{
+    margin-top: 15px;
+    padding-top: 3px;
+    width : 120px;
+    height : 24px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(223, 18, 18);
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 3px;
+    background-color: #f7e1e1;
+}
+
+/* Summary Details css */
+
+.summary-component-comman-display
+{
+    display: flex;
+    padding : 10px 0px;
+}
+.summary-component-common-name
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #1e2d7d;
+}
+.summary-component-common-value
+{
+    margin-left: auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : #1e2d7d;
+}
+.summary-component-gst-display
+{
+    display: flex;
+    margin-top: 12px;
+    padding : 5px 0px;
+    background-color:#0774d7;
+    border-radius: 3px;
+    width : 75px;
+}
+.summary-component-gst-name
+{
+    padding-left: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : white;
+}
+.summary-component-gst-value
+{
+    padding-left: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color : white;
+}
+

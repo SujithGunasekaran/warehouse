@@ -1,0 +1,99 @@
+.brand-detail-page-main
+{
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top : 30px;
+    padding-bottom: 30px;
+    background-color: #f3f5f6;
+    animation: fadeInAnimation ease 1s; 
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
+@media(max-width:440px)
+{
+    .brand-detail-page-main{padding-left: 0px;padding-right: 0px;}
+}
+
+/* breadcrumb */
+
+.brand-detail-link
+{
+    padding-top: 1.5px;
+    padding-left: 15px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #00badb;
+}
+.brand-detail-link a
+{
+    display : inline-block;
+    color : rgb(121, 117, 117);
+    transition: 0.5s all ease-in-out;
+}
+.brand-detail-link a:hover
+{
+    text-decoration: none;
+    color: #00badb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+}
+.brand-detail-link a:focus
+{
+    text-decoration: none;
+}
+
+.brand-detail-main-container
+{
+    margin-top: 40px;
+    width : 100%;
+    padding: 15px;
+    background-color: white;
+    border : 1px solid #e1e3e4;
+}
+.brand-detail-image
+{
+    /* margin : 8px; */
+    margin-top: 23px;
+    width : 150px;
+    height : 50px;
+}
+.brand-detail-brand-name
+{
+    padding : 8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    letter-spacing: 1.4px;
+    word-spacing: 2px;
+    font-weight: bold;
+    color: #1e2d7d;
+}
+.brand-detail-brand-info
+{
+    padding: 8px;
+    /* padding-top: 40px; */
+    letter-spacing: 0.5px;
+    word-spacing: 4px;
+    line-height: 210%;
+    /* font-family: 'Nunito', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color : rgb(99, 96, 96);
+}
+
+@media(max-width:550px){
+    .brand-detail-image{
+        margin: 25px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
