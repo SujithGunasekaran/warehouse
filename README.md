@@ -3,7 +3,7 @@
   https://yourwarehouse.herokuapp.com/
 
 
-# logicMaster
+# Warehouse
 
   Shopping website
  
