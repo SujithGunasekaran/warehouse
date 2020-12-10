@@ -18,7 +18,7 @@
  
  -> To start both client and server, Please run below command
  
- ### `npm run dev`
+ ### `npm run con`
  
  # To start client and Server seperately
  
