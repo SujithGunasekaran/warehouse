@@ -41,4 +41,5 @@
 2. `Node`
 3. `Express`
 4. `mongodb`
+5. `Redux`
 
