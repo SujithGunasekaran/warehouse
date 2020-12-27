@@ -1,11 +1,9 @@
-# Checkout my Website
-
-  https://yourwarehouse.herokuapp.com/
-
-
 # Warehouse
 
-  Shopping website
+  Shopping website 👇
+  
+  https://yourwarehouse.herokuapp.com/
+  
   
 # Installation Setup 
  
