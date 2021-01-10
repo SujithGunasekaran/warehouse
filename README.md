@@ -35,9 +35,10 @@
  
 # Build with 🔥
 
-1. `React`
-2. `Node`
-3. `Express`
-4. `mongodb`
-5. `Redux`
+1. `Javascript`
+2. `React`
+3. `Node`
+4. `Express`
+5. `mongodb`
+6. `Redux`
 
