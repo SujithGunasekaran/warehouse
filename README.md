@@ -1,9 +1,6 @@
 # Warehouse
 
-  Shopping website 👇
-  
-  https://yourwarehouse.herokuapp.com/
-  
+  E-Commerce website 👇 
   
 # Installation Setup 
  
