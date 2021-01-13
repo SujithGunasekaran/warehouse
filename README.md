@@ -1,6 +1,6 @@
 # Warehouse
 
-  E-Commerce website 👇 
+  E-Commerce website 
   
 # Installation Setup 
  
